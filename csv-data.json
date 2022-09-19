@@ -1,0 +1,20 @@
+[
+	{
+		"MAP_ID": "ArtGallery",
+		"ID": "1001",
+		"Title": "Why Gundams Are Cool",
+		"Authors": "Edward Cruz|(if more than 1 just add '|' between names)|(another fake name)|(another)",
+		"PDF File": "PDFs/name-of-pdf.pdf",
+		"Image File": "Images/name-of-img.png",
+		"Summary": "Gundams are just cool in my opinion, thanks for coming to my TED Talk in advance."
+	},
+	{
+		"MAP_ID": "ArtGallery",
+		"ID": "1002",
+		"Title": "idk",
+		"Authors": "Edward Cruz",
+		"PDF File": "PDFs/name-of-pdf2.pdf",
+		"Image File": " Images/name-of-img2.png",
+		"Summary": "This is just a random summary of nothing for testing purposes."
+	}
+]

@@ -7,5 +7,7 @@ module.exports = {
 	
     API_KEY: "Zra9dwzdcJ7XewJJ",
 
+    CSV_FILE: "./test.csv",
+
     // maybe require the csv path here - look into making a GUI and have file be dragged and dropped on the screen.
 };
