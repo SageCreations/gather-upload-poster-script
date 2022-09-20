@@ -19,5 +19,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "jquery-csv": "^1.0.21"
-  }
+  },
+  "type": "module"
+
 }

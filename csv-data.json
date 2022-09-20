@@ -4,17 +4,29 @@
 		"ID": "1001",
 		"Title": "Why Gundams Are Cool",
 		"Authors": "Edward Cruz|(if more than 1 just add '|' between names)|(another fake name)|(another)",
-		"PDF File": "PDFs/name-of-pdf.pdf",
-		"Image File": "Images/name-of-img.png",
+		"PDF": "https://drive.google.com/file/d/1PrygQC-2TymvIhJZPJko7GMpRINJzYAO/preview",
+		"Image": "https://drive.google.com/file/d/1f34XYlfycOxa_Wz5yPosAwA2w4XgqlG0/preview",
+		"Video": "https://youtu.be/bBjzNiGSC3A",
 		"Summary": "Gundams are just cool in my opinion, thanks for coming to my TED Talk in advance."
 	},
 	{
 		"MAP_ID": "ArtGallery",
 		"ID": "1002",
-		"Title": "idk",
+		"Title": "Gundams Are Still Cool",
 		"Authors": "Edward Cruz",
-		"PDF File": "PDFs/name-of-pdf2.pdf",
-		"Image File": " Images/name-of-img2.png",
+		"PDF": "https://drive.google.com/file/d/1-lGeUzeZSy8dGfiqiLZHQbCJwELJMNQ7/preview",
+		"Image": "https://drive.google.com/file/d/1ToWdky0-7g1sW-ZLM48gAERohdNlVeCK/preview",
+		"Video": "https://youtu.be/v4x0hhJ1BBQ",
 		"Summary": "This is just a random summary of nothing for testing purposes."
+	},
+	{
+		"MAP_ID": "ArtGallery",
+		"ID": "1003",
+		"Title": "Ironblooded Orphans",
+		"Authors": "Edward Cruz",
+		"PDF": "https://drive.google.com/file/d/1pjCDTpfKbQHPECQjRY3HA1DhD1HNUof4/preview",
+		"Image": "https://drive.google.com/file/d/1S9QG_I6xYgVpRtPr8Zg8EkRd6Wx7umY5/preview",
+		"Video": "https://youtu.be/IddxplDVGw8",
+		"Summary": "Iron-Blooded Orphans follows the exploits of a group of juvenile soldiers who establish their own security company after rebelling against the adults who betrayed them on a futuristic, terraformed Mars. The series deals with several real-life problems such as war, slavery, child soldiers, poverty, neo-colonialism, and corruption. The catchphrase of the series is 'The sustenance of life is on the battlefield.' (いのちの糧は、戦場にある。, Inochi no kate wa, senjō ni aru.)"
 	}
 ]
