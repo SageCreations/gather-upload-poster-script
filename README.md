@@ -2,6 +2,7 @@
 # Gathertown link-data uploader
 
 ## Disclaimer: I have never used javascript before so most of the coding style is just copied from online snippets and what I saw from npfoss's api-example on github. I will try to alleviate this for future programmers by commenting heavily in every file.
+- TODO: link api-example.git here
 
 ### - There will be a GUI version of this script so all the user needed stuff on the script stuff can just be PnP, otherwise the user needed stuff will be needed in the config.js file.
 
