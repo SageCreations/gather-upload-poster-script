@@ -1,7 +1,7 @@
 [
 	{
 		"MAP_ID": "ArtGallery",
-		"ID": "1001",
+		"ID": "1004",
 		"Title": "Why Gundams Are Cool",
 		"Authors": "Edward Cruz|(if more than 1 just add '|' between names)|(another fake name)|(another)",
 		"PDF": "https://drive.google.com/file/d/1PrygQC-2TymvIhJZPJko7GMpRINJzYAO/preview",
@@ -20,7 +20,7 @@
 		"Summary": "This is just a random summary of nothing for testing purposes."
 	},
 	{
-		"MAP_ID": "ArtGallery",
+		"MAP_ID": "conference-deluxe-posters-24-1",
 		"ID": "1003",
 		"Title": "Ironblooded Orphans",
 		"Authors": "Edward Cruz",

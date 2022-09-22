@@ -25,13 +25,10 @@ export function getMapData(api_key, space_id, map_id) {
         (err) => {
           // Error checking
           if (err) throw err;
-          console.log(typeof response);
         }
       ) 
     )
     .catch(console.error);
 }
 
-  // TODO: gotta make it to where it pulls from the stored 
-  //       MAP_IDs off of the csv reader file and export a 
-  //       json file named after them as "{MAP_ID}-data.json"
+// TODO: see if theres a way for only objects to get uploaded to the json
