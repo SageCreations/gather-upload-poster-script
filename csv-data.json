@@ -1,7 +1,7 @@
 [
 	{
 		"MAP_ID": "ArtGallery",
-		"ID": "1001",
+		"ID": "1002",
 		"Title": "Why Gundams Are Cool",
 		"Authors": "Edward Cruz|(if more than 1 just add '|' between names)|(another fake name)|(another)",
 		"PDF": "https://drive.google.com/file/d/1PrygQC-2TymvIhJZPJko7GMpRINJzYAO/preview",
@@ -11,7 +11,7 @@
 	},
 	{
 		"MAP_ID": "ArtGallery",
-		"ID": "1002",
+		"ID": "1003",
 		"Title": "Gundams Are Still Cool",
 		"Authors": "Edward Cruz",
 		"PDF": "https://drive.google.com/file/d/1-lGeUzeZSy8dGfiqiLZHQbCJwELJMNQ7/preview",
@@ -21,7 +21,7 @@
 	},
 	{
 		"MAP_ID": "ArtGallery",
-		"ID": "1003",
+		"ID": "1001",
 		"Title": "Ironblooded Orphans",
 		"Authors": "Edward Cruz",
 		"PDF": "https://drive.google.com/file/d/1pjCDTpfKbQHPECQjRY3HA1DhD1HNUof4/preview",
