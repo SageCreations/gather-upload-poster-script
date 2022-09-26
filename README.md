@@ -23,7 +23,7 @@
   - then npm install
 - A CSV file that is compliant with the section below or test.csv examples. 
   - You can make a google spreadsheet and then download as csv file - easiest way
-- User needs to go to each object they want data uploaded to and put a corresponding ID number in the "Preview Message" spot in gathertown.
+- User needs to go to each object they want data uploaded to and put a corresponding ID number in the "Preview Message" spot in gathertown. (SUBJECT TO CHANGE.)
 
 ## CSV file format:
 ### MAP_ID, ID, Title, Authors, PDF, Image, Video, Summary
