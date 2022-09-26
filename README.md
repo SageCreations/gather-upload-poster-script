@@ -25,7 +25,7 @@
   };  
   ```
   - then npm install
-- A CSV file that is compliant with the section below or test.csv examples. 
+- A CSV file that is compliant with the section below. 
   - You can make a google spreadsheet and then download as csv file - easiest way
 - User needs to go to each object they want data uploaded to and put a corresponding ID number in the "Preview Message" spot in gathertown. (SUBJECT TO CHANGE.)
 
@@ -35,8 +35,6 @@
 ### MAP_ID, ID, Title, Authors, PDF, Image, Video, Summary
 
 Example: ArtGallery,1001,Why Gundams Are Cool,Edward Cruz|(if more than 1 just add '|' between names)|(another fake name)|(another),stored-online-link-of-pdf,stored-online-linkof-image,stored-online-video-link,"Gundams are just cool in my opinion, thanks for coming to my TED Talk in advance."
-
-check the test.csv file for a working example, the above might be outdated.
 
 
 
