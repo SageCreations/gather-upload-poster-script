@@ -5,7 +5,6 @@
 - TODO: link api-example.git here
 ---
 
-### - There will be a GUI version of this script so all the user needed stuff on the script stuff can just be PnP, otherwise the user needed stuff will be needed in the config.js file.
 
 ## Stuff Needed By The User:
 - gathertown space_id link ().
@@ -20,7 +19,7 @@
 
 ### Step 1:
 
-- reads the csv file and creats a json array out of it.
+- reads the csv file and creats a json file out if it.
 
 ### Step 2:
 
@@ -28,17 +27,18 @@
 
 ### Step 3:
 
-- Run the get-map-data script via for-loop based on ength of the map_id array.
+- Run the get-map-data script via for-loop based on length of the map_id array.
 - This script gets the data from the room that it is inserted and spits out a json file corresponding to each room that is called.
 
 ### Step 4:
 
 - triple nested for loop checking for objects from the room data and the csv data, matches ID numbers and proceeds to plugin links into objects.
-  - User will need to go in the room and set the ID number in an objects "preview message" manually, (script at end will replace all preview messages with button prompt message).
+  - User will need to go in the room and set the ID number in an objects "preview message" manually, (script at end will replace all preview messages with button prompt message). (THIS STEP IS SUBJECT TO CHANGE.)
   
 ### Step 5: 
 
-- this script only runs if the user hits the finalize button or runs the finalize script, its just to replace all the preview messages with button prompts for gathertown users, DO NOT RUN IF YOU ARE NOT DONE UPLOADING FILES VIA SCRIPTS.
+- this part of the script only runs if the user runs the finalize script, its just to replace all the preview messages with button prompts for gathertown users, DO NOT RUN IF YOU ARE NOT DONE UPLOADING FILES VIA SCRIPTS.
+(IF THIS FILE RUNS BEFORE FINISHING, YOU WILL NEED TO GO BACK AND MANUALLY READD THE IDs ON TO PROMPT MESSAGES.)
 
 ## CSV file format:
 ### MAP_ID, ID, Title, Authors, PDF, Image, Video, Summary
