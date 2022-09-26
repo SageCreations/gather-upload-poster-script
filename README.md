@@ -3,6 +3,7 @@
 
 ## Disclaimer: I have never used javascript before so most of the coding style is just copied from online snippets and what I saw from npfoss's api-example on github. I will try to alleviate this for future programmers by commenting heavily in every file.
 - https://github.com/gathertown/api-examples
+- https://gathertown.notion.site/Gather-HTTP-API-3bbf6c59325f40aca7ef5ce14c677444
 ---
 
 
