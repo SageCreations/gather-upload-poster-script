@@ -1,10 +1,14 @@
 # STATUS OF PROJECT: Script is still not done
 # Gathertown link-data uploader
 
+
+
 ## Disclaimer: I have never used javascript before so most of the coding style is just copied from online snippets and what I saw from npfoss's api-example on github. I will try to alleviate this for future programmers by commenting heavily in every file.
 - https://github.com/gathertown/api-examples
 - https://gathertown.notion.site/Gather-HTTP-API-3bbf6c59325f40aca7ef5ce14c677444
 ---
+
+
 
 
 ## Stuff Needed By The User:
@@ -25,6 +29,8 @@
   - You can make a google spreadsheet and then download as csv file - easiest way
 - User needs to go to each object they want data uploaded to and put a corresponding ID number in the "Preview Message" spot in gathertown. (SUBJECT TO CHANGE.)
 
+
+
 ## CSV file format:
 ### MAP_ID, ID, Title, Authors, PDF, Image, Video, Summary
 
@@ -33,7 +39,20 @@ Example: ArtGallery,1001,Why Gundams Are Cool,Edward Cruz|(if more than 1 just a
 check the test.csv file for a working example, the above might be outdated.
 
 
-## What the Script Does:
+
+## How To Run The Script:
+1. Using a terminal that supports bash, go into the projects directory
+```
+chmod -x RunProgram.sh
+```
+2. Then run the sh file itself
+```
+bash RunProgram.sh
+```
+
+
+
+## What The Script Does:
 
 ### Step 1:
 
