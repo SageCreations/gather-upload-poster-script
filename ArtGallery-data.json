@@ -1,65 +1,89 @@
 {
+	"announcer": [],
+	"mostRecentUpdateId": 1146493073896821,
+	"dimensions": [
+		100,
+		100
+	],
+	"portals": [
+		{
+			"targetMap": "NewOrleansTown",
+			"targetY": 51,
+			"y": 56,
+			"x": 23,
+			"targetX": 15
+		},
+		{
+			"x": 24,
+			"targetX": 17,
+			"y": 56,
+			"targetMap": "NewOrleansTown",
+			"targetY": 50
+		},
+		{
+			"y": 56,
+			"x": 16,
+			"targetMap": "NewOrleansTown",
+			"targetX": 89,
+			"targetY": 41
+		},
+		{
+			"targetY": 41,
+			"x": 17,
+			"targetX": 88,
+			"targetMap": "NewOrleansTown",
+			"y": 56
+		}
+	],
 	"objects": [
 		{
-			"orientation": 0,
-			"x": 40,
-			"color": "#d5a7fa",
-			"_name": "Needlepoint Rug (5x5)",
-			"scale": 1,
-			"height": 5,
-			"properties": {},
+			"offsetY": 0,
+			"templateId": "AntiqueNeedlepointRug5x5 - da_pHzOv-xXn-xgW87LVq",
 			"y": 33,
+			"_name": "Needlepoint Rug (5x5)",
+			"height": 5,
+			"x": 40,
+			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_e3a1e985-e9a1-4b70-9958-fcf7948ff726",
 			"width": 5,
+			"orientation": 0,
+			"offsetX": 0,
+			"color": "#d5a7fa",
+			"properties": {},
 			"_tags": [
 				"decoration",
 				"decoration/floor",
 				"decoration/floor/rug",
 				"antique"
 			],
-			"offsetX": 0,
+			"scale": 1,
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FdJwKc7lhfBR0NXSD?alt=media&token=b44777b6-3a72-45db-b5a8-95d2454230d7",
-			"templateId": "AntiqueNeedlepointRug5x5 - da_pHzOv-xXn-xgW87LVq",
-			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_e3a1e985-e9a1-4b70-9958-fcf7948ff726",
-			"offsetY": 0,
 			"type": 0
 		},
 		{
-			"offsetX": 0,
-			"type": 0,
-			"templateId": "AntiqueNeedlepointRug5x5 - da_pHzOv-xXn-xgW87LVq",
-			"width": 5,
+			"height": 5,
+			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_4c25c850-86f5-4fd2-9642-89c6dafc3387",
 			"offsetY": 0,
+			"x": 41,
+			"type": 0,
+			"width": 5,
+			"offsetX": 0,
+			"y": 43,
+			"color": "#d5a7fa",
+			"properties": {},
+			"templateId": "AntiqueNeedlepointRug5x5 - da_pHzOv-xXn-xgW87LVq",
+			"_name": "Needlepoint Rug (5x5)",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FdJwKc7lhfBR0NXSD?alt=media&token=b44777b6-3a72-45db-b5a8-95d2454230d7",
+			"orientation": 0,
 			"_tags": [
 				"decoration",
 				"decoration/floor",
 				"decoration/floor/rug",
 				"antique"
 			],
-			"color": "#d5a7fa",
-			"orientation": 0,
-			"height": 5,
-			"properties": {},
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FdJwKc7lhfBR0NXSD?alt=media&token=b44777b6-3a72-45db-b5a8-95d2454230d7",
-			"_name": "Needlepoint Rug (5x5)",
-			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_4c25c850-86f5-4fd2-9642-89c6dafc3387",
-			"y": 43,
-			"scale": 1,
-			"x": 41
+			"scale": 1
 		},
 		{
-			"type": 0,
-			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_52faf222-0ef0-4a5e-a430-12aa06844664",
-			"offsetY": 0,
-			"offsetX": 0,
-			"height": 5,
-			"properties": {},
 			"width": 5,
-			"color": "#d5a7fa",
-			"scale": 1,
-			"templateId": "AntiqueNeedlepointRug5x5 - da_pHzOv-xXn-xgW87LVq",
-			"x": 3,
-			"_name": "Needlepoint Rug (5x5)",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FdJwKc7lhfBR0NXSD?alt=media&token=b44777b6-3a72-45db-b5a8-95d2454230d7",
 			"_tags": [
 				"decoration",
 				"decoration/floor",
@@ -67,45 +91,49 @@
 				"antique"
 			],
 			"y": 34,
-			"orientation": 0
+			"_name": "Needlepoint Rug (5x5)",
+			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_52faf222-0ef0-4a5e-a430-12aa06844664",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FdJwKc7lhfBR0NXSD?alt=media&token=b44777b6-3a72-45db-b5a8-95d2454230d7",
+			"orientation": 0,
+			"color": "#d5a7fa",
+			"height": 5,
+			"properties": {},
+			"templateId": "AntiqueNeedlepointRug5x5 - da_pHzOv-xXn-xgW87LVq",
+			"type": 0,
+			"x": 3,
+			"offsetX": 0,
+			"scale": 1,
+			"offsetY": 0
 		},
 		{
-			"offsetX": 0,
-			"properties": {},
 			"orientation": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FdJwKc7lhfBR0NXSD?alt=media&token=b44777b6-3a72-45db-b5a8-95d2454230d7",
-			"offsetY": 0,
-			"y": 45,
-			"width": 5,
+			"_name": "Needlepoint Rug (5x5)",
 			"templateId": "AntiqueNeedlepointRug5x5 - da_pHzOv-xXn-xgW87LVq",
-			"x": 3,
-			"type": 0,
 			"_tags": [
 				"decoration",
 				"decoration/floor",
 				"decoration/floor/rug",
 				"antique"
 			],
-			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_13dfaa86-1605-4ab6-b0b6-5b4a4e0c2a05",
-			"height": 5,
-			"_name": "Needlepoint Rug (5x5)",
+			"y": 45,
+			"color": "#d5a7fa",
+			"type": 0,
+			"offsetX": 0,
+			"x": 3,
+			"properties": {},
+			"offsetY": 0,
 			"scale": 1,
-			"color": "#d5a7fa"
+			"width": 5,
+			"height": 5,
+			"id": "AntiqueNeedlepointRug5x5 - dapHzOv-xXn-xgW87LVq_13dfaa86-1605-4ab6-b0b6-5b4a4e0c2a05",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FdJwKc7lhfBR0NXSD?alt=media&token=b44777b6-3a72-45db-b5a8-95d2454230d7"
 		},
 		{
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"y": 25,
-			"width": 1,
-			"offsetX": 0,
-			"x": 18,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
 			"color": "a",
-			"distThreshold": 3,
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_bdb1be01-c640-4de8-9311-fe879df7a59c",
-			"offsetY": 0,
-			"orientation": 0,
 			"scale": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"type": 3,
+			"distThreshold": 3,
 			"_tags": [
 				"social",
 				"office",
@@ -114,57 +142,69 @@
 				"wayfinding",
 				"presentation"
 			],
+			"y": 25,
+			"offsetX": 0,
+			"_name": "Bulletin (Video)",
+			"orientation": 0,
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
 			"previewMessage": "",
-			"type": 3,
+			"height": 2,
+			"width": 1,
 			"properties": {
 				"video": "https://youtu.be/_9wxSZUfXos"
 			},
-			"_name": "Bulletin (Video)",
-			"height": 2
+			"offsetY": 0,
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"x": 18,
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_bdb1be01-c640-4de8-9311-fe879df7a59c"
 		},
 		{
+			"orientation": 0,
+			"_tags": [
+				"social",
+				"office",
+				"education",
+				"conference",
+				"wayfinding",
+				"presentation"
+			],
+			"_name": "Bulletin (Video)",
 			"properties": {
 				"video": "https://youtu.be/k3YYXJlT2Sk"
 			},
-			"distThreshold": 3,
-			"color": "a",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"previewMessage": "",
-			"width": 1,
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"scale": 1,
-			"type": 3,
-			"height": 2,
-			"_name": "Bulletin (Video)",
 			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"_tags": [
-				"social",
-				"office",
-				"education",
-				"conference",
-				"wayfinding",
-				"presentation"
-			],
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_494ac48f-2a60-44c6-b22d-f3cba78dc236",
+			"height": 2,
+			"width": 1,
+			"scale": 1,
 			"y": 25,
 			"x": 9,
-			"orientation": 0
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_494ac48f-2a60-44c6-b22d-f3cba78dc236",
+			"type": 3,
+			"color": "a",
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"previewMessage": "",
+			"distThreshold": 3
 		},
 		{
-			"_name": "Bulletin (Video)",
+			"x": 11,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"previewMessage": "",
+			"height": 2,
+			"distThreshold": 3,
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"scale": 1,
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_31a478e9-1904-4075-b578-0e0a8ad8eebd",
+			"type": 3,
+			"width": 1,
 			"color": "a",
+			"orientation": 0,
+			"y": 15,
+			"_name": "Bulletin (Video)",
 			"properties": {
 				"video": "https://youtu.be/5AOS8ViW__g"
 			},
-			"type": 3,
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_31a478e9-1904-4075-b578-0e0a8ad8eebd",
-			"width": 1,
-			"orientation": 0,
-			"y": 15,
-			"x": 11,
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"previewMessage": "",
-			"distThreshold": 3,
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
 			"_tags": [
 				"social",
 				"office",
@@ -172,15 +212,9 @@
 				"conference",
 				"wayfinding",
 				"presentation"
-			],
-			"height": 2,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"scale": 1,
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b"
+			]
 		},
 		{
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"scale": 1,
 			"_tags": [
 				"social",
 				"office",
@@ -189,124 +223,71 @@
 				"wayfinding",
 				"presentation"
 			],
+			"type": 3,
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
+			"color": "a",
+			"distThreshold": 3,
 			"x": 13,
-			"y": 5,
-			"color": "a",
-			"previewMessage": "1001",
-			"type": 3,
+			"scale": 1,
+			"height": 2,
 			"orientation": 0,
-			"properties": {
-				"video": "https://youtu.be/bBjzNiGSC3A"
-			},
-			"height": 2,
 			"width": 1,
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_7498ac06-f8e4-4382-bc93-2fb57e553b19",
-			"distThreshold": 3,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"_name": "Bulletin (Video)"
-		},
-		{
-			"distThreshold": 3,
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_908fa70f-f912-4bd7-9e4e-4f0ef4884fa3",
-			"_name": "Bulletin (Video)",
-			"properties": {
-				"video": "https://youtu.be/v4x0hhJ1BBQ"
-			},
-			"x": 24,
-			"_tags": [
-				"social",
-				"office",
-				"education",
-				"conference",
-				"wayfinding",
-				"presentation"
-			],
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"width": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"type": 3,
-			"previewMessage": "1002",
-			"y": 5,
-			"scale": 1,
-			"color": "a",
-			"height": 2,
-			"orientation": 0
-		},
-		{
-			"previewMessage": "1003",
-			"scale": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"color": "a",
-			"width": 1,
-			"y": 5,
-			"_tags": [
-				"social",
-				"office",
-				"education",
-				"conference",
-				"wayfinding",
-				"presentation"
-			],
 			"properties": {
 				"video": "https://youtu.be/IddxplDVGw8"
 			},
-			"x": 34,
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_0a8b4bbd-0792-47a6-a662-6729d0e896a1",
-			"orientation": 0,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
 			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"height": 2,
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_7498ac06-f8e4-4382-bc93-2fb57e553b19",
+			"y": 5,
 			"_name": "Bulletin (Video)",
-			"distThreshold": 3,
-			"offsetX": 0,
-			"offsetY": 0,
-			"type": 3
+			"previewMessage": "1001"
 		},
 		{
-			"y": 5,
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"_name": "Bulletin (Video)",
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_bcfd5354-921a-4795-a875-4b298ad39372",
+			"color": "a",
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_908fa70f-f912-4bd7-9e4e-4f0ef4884fa3",
+			"width": 1,
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
+			"distThreshold": 3,
 			"height": 2,
-			"x": 42,
+			"orientation": 0,
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"previewMessage": "1002",
+			"scale": 1,
+			"_tags": [
+				"social",
+				"office",
+				"education",
+				"conference",
+				"wayfinding",
+				"presentation"
+			],
 			"properties": {
 				"video": "https://youtu.be/bBjzNiGSC3A"
 			},
-			"distThreshold": 3,
 			"type": 3,
-			"scale": 1,
-			"_tags": [
-				"social",
-				"office",
-				"education",
-				"conference",
-				"wayfinding",
-				"presentation"
-			],
-			"orientation": 0,
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"_name": "Bulletin (Video)",
-			"color": "a",
-			"previewMessage": "1004",
-			"width": 1
+			"x": 24,
+			"y": 5
 		},
 		{
-			"offsetX": 0,
-			"offsetY": 0,
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"x": 31,
-			"_name": "Bulletin (Video)",
-			"height": 2,
-			"type": 3,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_96d76d31-444f-406f-a55e-e99673a04829",
 			"color": "a",
 			"properties": {
-				"video": "https://youtu.be/zapltlNw1-w"
+				"video": "https://youtu.be/v4x0hhJ1BBQ"
 			},
 			"distThreshold": 3,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"type": 3,
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_0a8b4bbd-0792-47a6-a662-6729d0e896a1",
+			"scale": 1,
+			"y": 5,
+			"orientation": 0,
+			"x": 34,
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
+			"_name": "Bulletin (Video)",
+			"previewMessage": "1003",
+			"offsetY": 0,
 			"_tags": [
 				"social",
 				"office",
@@ -315,45 +296,15 @@
 				"wayfinding",
 				"presentation"
 			],
-			"y": 15,
-			"orientation": 0,
-			"scale": 1,
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"previewMessage": "",
-			"width": 1
-		},
-		{
-			"x": 39,
 			"height": 2,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_6dcbcbef-c4f1-49f8-80fe-dc21bd04e7a4",
-			"y": 15,
 			"width": 1,
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"scale": 1,
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"previewMessage": "",
-			"orientation": 0,
-			"color": "a",
-			"offsetY": 0,
-			"distThreshold": 3,
-			"properties": {
-				"video": "https://youtu.be/1AY94U2Wcwc"
-			},
-			"_tags": [
-				"social",
-				"office",
-				"education",
-				"conference",
-				"wayfinding",
-				"presentation"
-			],
-			"_name": "Bulletin (Video)",
-			"type": 3,
 			"offsetX": 0
 		},
 		{
-			"type": 3,
+			"distThreshold": 3,
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"orientation": 0,
+			"color": "a",
 			"_tags": [
 				"social",
 				"office",
@@ -362,27 +313,56 @@
 				"wayfinding",
 				"presentation"
 			],
-			"orientation": 0,
-			"color": "a",
+			"width": 1,
+			"_name": "Bulletin (Video)",
+			"x": 42,
+			"height": 2,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"scale": 1,
 			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_14bc4805-aca1-4a5f-b7b2-c87914523b13",
+			"properties": {
+				"video": "https://youtu.be/bBjzNiGSC3A"
+			},
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_bcfd5354-921a-4795-a875-4b298ad39372",
+			"type": 3,
+			"y": 5,
+			"previewMessage": "1004"
+		},
+		{
+			"y": 15,
 			"x": 31,
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"y": 35,
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"height": 2,
-			"previewMessage": "",
-			"_name": "Bulletin (Video)",
+			"offsetX": 0,
+			"_tags": [
+				"social",
+				"office",
+				"education",
+				"conference",
+				"wayfinding",
+				"presentation"
+			],
 			"distThreshold": 3,
+			"height": 2,
+			"type": 3,
 			"scale": 1,
+			"offsetY": 0,
+			"color": "a",
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"orientation": 0,
+			"_name": "Bulletin (Video)",
 			"width": 1,
+			"previewMessage": "",
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_96d76d31-444f-406f-a55e-e99673a04829",
 			"properties": {
-				"video": "https://youtu.be/mTI9CbM5dIM"
+				"video": "https://youtu.be/zapltlNw1-w"
 			}
 		},
 		{
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_422fa48f-63f1-4656-9796-6d432ea90241",
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"offsetY": 0,
+			"x": 39,
+			"height": 2,
 			"_tags": [
 				"social",
 				"office",
@@ -391,259 +371,315 @@
 				"wayfinding",
 				"presentation"
 			],
+			"y": 15,
 			"scale": 1,
+			"width": 1,
+			"orientation": 0,
+			"distThreshold": 3,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
+			"properties": {
+				"video": "https://youtu.be/1AY94U2Wcwc"
+			},
+			"_name": "Bulletin (Video)",
+			"offsetX": 0,
+			"color": "a",
+			"previewMessage": "",
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_6dcbcbef-c4f1-49f8-80fe-dc21bd04e7a4",
+			"type": 3
+		},
+		{
+			"_tags": [
+				"social",
+				"office",
+				"education",
+				"conference",
+				"wayfinding",
+				"presentation"
+			],
 			"type": 3,
+			"scale": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"y": 35,
+			"height": 2,
+			"color": "a",
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_14bc4805-aca1-4a5f-b7b2-c87914523b13",
+			"orientation": 0,
+			"distThreshold": 3,
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
+			"properties": {
+				"video": "https://youtu.be/mTI9CbM5dIM"
+			},
+			"width": 1,
+			"x": 31,
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"previewMessage": "",
+			"_name": "Bulletin (Video)"
+		},
+		{
+			"color": "a",
+			"_name": "Bulletin (Video)",
+			"distThreshold": 3,
+			"_tags": [
+				"social",
+				"office",
+				"education",
+				"conference",
+				"wayfinding",
+				"presentation"
+			],
+			"y": 35,
+			"height": 2,
 			"properties": {
 				"video": "https://youtu.be/swvMpMjGNOE"
 			},
 			"previewMessage": "",
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"color": "a",
-			"x": 23,
-			"width": 1,
-			"orientation": 0,
-			"height": 2,
-			"y": 35,
-			"distThreshold": 3,
 			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"_name": "Bulletin (Video)"
+			"type": 3,
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_422fa48f-63f1-4656-9796-6d432ea90241",
+			"scale": 1,
+			"width": 1,
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"x": 23,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
+			"orientation": 0
 		},
 		{
-			"x": 38,
 			"type": 1,
-			"orientation": 0,
 			"templateId": "HlInp0veU9QjCKp1D3bTt",
-			"previewMessage": "1004",
+			"id": "HlInp0veU9QjCKp1D3bTt_2724307c-6a72-4c19-998c-2268cd749e44",
+			"height": 3,
+			"y": 2,
+			"orientation": 0,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/ZSrVT1CFn0GvJIRi9mMDuj",
+			"color": "default",
 			"properties": {
 				"url": "https://drive.google.com/file/d/1PrygQC-2TymvIhJZPJko7GMpRINJzYAO/preview"
 			},
-			"_name": "face",
-			"id": "HlInp0veU9QjCKp1D3bTt_2724307c-6a72-4c19-998c-2268cd749e44",
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/GM8WN5Oagrb2wXsHIEL9Vo",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/ZSrVT1CFn0GvJIRi9mMDuj",
+			"previewMessage": "1004",
+			"width": 4,
+			"x": 38,
 			"_tags": [
 				"Custom"
 			],
-			"y": 2,
-			"width": 4,
-			"color": "default",
 			"scale": 1,
-			"height": 3
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/GM8WN5Oagrb2wXsHIEL9Vo",
+			"_name": "face"
 		},
 		{
-			"_name": "spectra",
-			"templateId": "_uCMxO0dRyKip0Hv4UUVK",
-			"offsetX": 0,
 			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/RyHD8BsfpdGP2wIQr7ObiW",
+			"templateId": "_uCMxO0dRyKip0Hv4UUVK",
+			"scale": 1,
 			"properties": {
 				"url": "https://drive.google.com/file/d/1F1Chc-lyMMKKtP5jrE6rxXEmyeaMqlEl/preview"
 			},
-			"y": 12,
-			"width": 4,
 			"orientation": 0,
-			"color": "default",
 			"id": "uCMxO0dRyKip0Hv4UUVK_aee6d4da-63ce-4633-a638-c9bc304df0ed",
-			"scale": 1,
-			"height": 3,
-			"_tags": [
-				"Custom"
-			],
-			"offsetY": 0,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/mIwLqA6iGbvZdkCuM1ytaP",
+			"_name": "spectra",
+			"y": 12,
 			"x": 40,
-			"type": 1,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/mIwLqA6iGbvZdkCuM1ytaP"
-		},
-		{
-			"properties": {
-				"url": "https://drive.google.com/file/d/1TVZc48b9BK-pNowgyePax_5ZrSdm7Oo-/preview"
-			},
-			"_name": "glacier",
-			"orientation": 0,
-			"templateId": "FZkgkUG9U4wU0favG9SLd",
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/corzl2EeFC735dbWNsmLix",
-			"width": 4,
-			"id": "FZkgkUG9U4wU0favG9SLd_999a3839-ec1a-4702-91d3-582a900238a5",
-			"type": 1,
-			"height": 3,
 			"color": "default",
-			"x": 14,
-			"y": 22,
-			"_tags": [
-				"Custom"
-			],
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/avSu8ofAOrlRkNZUncw6p4",
-			"scale": 1
-		},
-		{
-			"id": "AS40WmTQ-J8rYEi15Zfl-_08f4a4e3-83ef-4f19-a1fe-78368811a5f5",
-			"width": 4,
-			"properties": {
-				"url": "https://drive.google.com/file/d/1PrygQC-2TymvIhJZPJko7GMpRINJzYAO/preview"
-			},
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/fA0j9hSrYb3GzZ2XdBoCOg",
+			"type": 1,
 			"offsetX": 0,
-			"x": 9,
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/HgRWqASF7uhY6KPzseorUm",
-			"scale": 1,
-			"orientation": 0,
-			"height": 3,
-			"_tags": [
-				"Custom"
-			],
-			"type": 1,
-			"offsetY": 0,
-			"color": "default",
-			"_name": "sideview",
-			"templateId": "AS40WmTQ-J8rYEi15Zfl-",
-			"y": 2,
-			"previewMessage": "1001"
-		},
-		{
-			"scale": 1,
-			"properties": {
-				"url": "https://drive.google.com/file/d/1UHkfDznGepKySmXDb5cnmKSymq8MdY2W/preview"
-			},
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/KJ81YyjsflxL0DVUBaCrI4",
-			"_name": "surface",
-			"x": 27,
-			"type": 1,
-			"y": 32,
-			"color": "default",
 			"width": 4,
-			"orientation": 0,
-			"id": "w7PramT1jOf8dbzBROEHQ_3dd41b72-5357-4cf8-8cbd-10e524ab1583",
-			"templateId": "w7PramT1jOf8dbzBROEHQ",
+			"offsetY": 0,
 			"height": 3,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/DgKdct7OZbFVCeN5wJHG96",
 			"_tags": [
 				"Custom"
 			]
 		},
 		{
-			"previewMessage": "1003",
-			"x": 30,
-			"id": "ZVpMzaldL9ppEmxsfZdHc_79c1050f-2106-45bb-9736-f484a7613d3e",
-			"type": 1,
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/corzl2EeFC735dbWNsmLix",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/avSu8ofAOrlRkNZUncw6p4",
 			"color": "default",
+			"templateId": "FZkgkUG9U4wU0favG9SLd",
+			"_name": "glacier",
+			"x": 14,
+			"type": 1,
+			"height": 3,
+			"y": 22,
+			"orientation": 0,
+			"width": 4,
+			"scale": 1,
+			"properties": {
+				"url": "https://drive.google.com/file/d/1TVZc48b9BK-pNowgyePax_5ZrSdm7Oo-/preview"
+			},
+			"id": "FZkgkUG9U4wU0favG9SLd_999a3839-ec1a-4702-91d3-582a900238a5",
+			"_tags": [
+				"Custom"
+			]
+		},
+		{
 			"properties": {
 				"url": "https://drive.google.com/file/d/1pjCDTpfKbQHPECQjRY3HA1DhD1HNUof4/preview"
 			},
-			"_name": "untitled",
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Ds9vCUedkRiOWKSLpGqJ42",
-			"y": 2,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/WUn02YtorTdxgNfJOeFSyv",
-			"_tags": [
-				"Custom"
-			],
-			"orientation": 0,
-			"templateId": "ZVpMzaldL9ppEmxsfZdHc",
-			"height": 3,
-			"width": 4,
-			"scale": 1
-		},
-		{
-			"height": 3,
-			"_tags": [
-				"Custom"
-			],
-			"orientation": 0,
-			"width": 4,
-			"x": 20,
-			"properties": {
-				"url": "https://drive.google.com/file/d/1q3hQPIQfxFn_LgYEBhU-lIL-dBX2B8oA/preview"
-			},
-			"_name": "decoding",
-			"scale": 1,
-			"y": 32,
-			"id": "nz2nHBPoZtX7jjjhnecQd_11ba5d14-1bb2-46fc-9bca-d9d0bdc8dd20",
-			"type": 1,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/LTlH3cBatMXxAmVusQqS4k",
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/JQXkUzDsPGhaSrux17TW93",
-			"color": "default",
-			"templateId": "nz2nHBPoZtX7jjjhnecQd"
-		},
-		{
-			"_name": "",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Fi4an3exyPERAXtDsj7oGw",
-			"_tags": [
-				"Custom"
-			],
-			"x": 32,
-			"offsetX": 0,
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/yrxeu0ntRbUz7cd3FSYwLo",
-			"properties": {
-				"url": "https://drive.google.com/file/d/1d-1sbqGp6_mwMs0isa-ZeihuewhHa27Q/preview"
-			},
-			"color": "default",
-			"y": 12,
-			"orientation": 0,
-			"scale": 1,
-			"height": 3,
 			"offsetY": 0,
-			"width": 4,
-			"id": "a0Vv0coM6KN9cQw1XT-X8_fe04e3df-83a9-454b-b166-7aa2c5e284bc",
-			"type": 1,
-			"templateId": "a0Vv0coM6KN9cQw1XT-X8"
-		},
-		{
-			"_name": "",
 			"height": 3,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/A5gexN4CuayQ6Ejtm2Lks0",
+			"scale": 1,
+			"_name": "sideview",
+			"templateId": "AS40WmTQ-J8rYEi15Zfl-",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/fA0j9hSrYb3GzZ2XdBoCOg",
+			"color": "default",
+			"orientation": 0,
+			"previewMessage": "1001",
+			"y": 2,
+			"x": 9,
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/HgRWqASF7uhY6KPzseorUm",
+			"width": 4,
 			"_tags": [
 				"Custom"
 			],
-			"properties": {
-				"url": "https://drive.google.com/file/d/1V_3ehQwd_pl71-v5Lb2uGa7Un8-RZsoG/preview"
-			},
-			"orientation": 0,
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/ZVSDGtQbpqYuer7LjsEl8c",
-			"color": "default",
-			"type": 1,
-			"x": 5,
-			"width": 4,
-			"id": "r7f42g9b0MIt7XXr91MHV_4d16af2a-bc24-4a91-aa81-764e3e80efa0",
-			"scale": 1,
-			"y": 22,
-			"templateId": "r7f42g9b0MIt7XXr91MHV"
+			"offsetX": 0,
+			"id": "AS40WmTQ-J8rYEi15Zfl-_08f4a4e3-83ef-4f19-a1fe-78368811a5f5",
+			"type": 1
 		},
 		{
-			"orientation": 0,
-			"height": 3,
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Ncbyzxmu5ZKpM2aU7RLEVi",
-			"templateId": "XLPOzPFtkZeldQTZs7Yek",
-			"scale": 1,
 			"properties": {
-				"url": "https://drive.google.com/file/d/1K_2bo7vq8wT9cKrbrJtwGRFF2YhW7aEH/preview"
+				"url": "https://drive.google.com/file/d/1UHkfDznGepKySmXDb5cnmKSymq8MdY2W/preview"
 			},
-			"type": 1,
+			"height": 3,
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/KJ81YyjsflxL0DVUBaCrI4",
+			"_name": "surface",
+			"scale": 1,
 			"_tags": [
 				"Custom"
 			],
-			"_name": "invisible lives",
-			"color": "default",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/DgKdct7OZbFVCeN5wJHG96",
+			"orientation": 0,
+			"templateId": "w7PramT1jOf8dbzBROEHQ",
 			"width": 4,
-			"id": "XLPOzPFtkZeldQTZs7Yek_ad10ee00-b6c5-40bf-b9ac-ee54c77de277",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/TOBS0feugstn3j4DEcF6rz",
-			"x": 7,
-			"y": 12
+			"y": 32,
+			"color": "default",
+			"type": 1,
+			"x": 27,
+			"id": "w7PramT1jOf8dbzBROEHQ_3dd41b72-5357-4cf8-8cbd-10e524ab1583"
 		},
 		{
-			"orientation": 0,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/kyi6sP2TzGOZfdFbeJQI1L",
-			"previewMessage": "1002",
-			"_name": "not",
-			"width": 4,
+			"y": 2,
+			"id": "ZVpMzaldL9ppEmxsfZdHc_79c1050f-2106-45bb-9736-f484a7613d3e",
+			"height": 3,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/WUn02YtorTdxgNfJOeFSyv",
 			"properties": {
 				"url": "https://drive.google.com/file/d/1-lGeUzeZSy8dGfiqiLZHQbCJwELJMNQ7/preview"
 			},
-			"color": "default",
 			"type": 1,
+			"previewMessage": "1003",
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Ds9vCUedkRiOWKSLpGqJ42",
+			"scale": 1,
+			"templateId": "ZVpMzaldL9ppEmxsfZdHc",
+			"x": 30,
+			"width": 4,
+			"color": "default",
+			"_name": "untitled",
+			"orientation": 0,
+			"_tags": [
+				"Custom"
+			]
+		},
+		{
+			"color": "default",
+			"scale": 1,
+			"x": 20,
+			"y": 32,
+			"height": 3,
+			"orientation": 0,
+			"_name": "decoding",
+			"properties": {
+				"url": "https://drive.google.com/file/d/1q3hQPIQfxFn_LgYEBhU-lIL-dBX2B8oA/preview"
+			},
+			"templateId": "nz2nHBPoZtX7jjjhnecQd",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/LTlH3cBatMXxAmVusQqS4k",
+			"_tags": [
+				"Custom"
+			],
+			"id": "nz2nHBPoZtX7jjjhnecQd_11ba5d14-1bb2-46fc-9bca-d9d0bdc8dd20",
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/JQXkUzDsPGhaSrux17TW93",
+			"type": 1,
+			"width": 4
+		},
+		{
+			"properties": {
+				"url": "https://drive.google.com/file/d/1d-1sbqGp6_mwMs0isa-ZeihuewhHa27Q/preview"
+			},
+			"height": 3,
+			"scale": 1,
+			"color": "default",
+			"offsetY": 0,
+			"_name": "",
+			"offsetX": 0,
+			"orientation": 0,
+			"_tags": [
+				"Custom"
+			],
+			"id": "a0Vv0coM6KN9cQw1XT-X8_fe04e3df-83a9-454b-b166-7aa2c5e284bc",
+			"x": 32,
+			"templateId": "a0Vv0coM6KN9cQw1XT-X8",
+			"y": 12,
+			"width": 4,
+			"type": 1,
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/yrxeu0ntRbUz7cd3FSYwLo",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Fi4an3exyPERAXtDsj7oGw"
+		},
+		{
+			"orientation": 0,
+			"scale": 1,
+			"_tags": [
+				"Custom"
+			],
+			"id": "r7f42g9b0MIt7XXr91MHV_4d16af2a-bc24-4a91-aa81-764e3e80efa0",
+			"type": 1,
+			"width": 4,
+			"color": "default",
+			"x": 5,
+			"height": 3,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/A5gexN4CuayQ6Ejtm2Lks0",
+			"properties": {
+				"url": "https://drive.google.com/file/d/1V_3ehQwd_pl71-v5Lb2uGa7Un8-RZsoG/preview"
+			},
+			"y": 22,
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/ZVSDGtQbpqYuer7LjsEl8c",
+			"_name": "",
+			"templateId": "r7f42g9b0MIt7XXr91MHV"
+		},
+		{
+			"id": "XLPOzPFtkZeldQTZs7Yek_ad10ee00-b6c5-40bf-b9ac-ee54c77de277",
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Ncbyzxmu5ZKpM2aU7RLEVi",
+			"templateId": "XLPOzPFtkZeldQTZs7Yek",
+			"_name": "invisible lives",
+			"properties": {
+				"url": "https://drive.google.com/file/d/1K_2bo7vq8wT9cKrbrJtwGRFF2YhW7aEH/preview"
+			},
+			"color": "default",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/TOBS0feugstn3j4DEcF6rz",
+			"height": 3,
+			"orientation": 0,
+			"x": 7,
+			"type": 1,
+			"y": 12,
+			"scale": 1,
+			"_tags": [
+				"Custom"
+			],
+			"width": 4
+		},
+		{
+			"width": 4,
+			"_name": "not",
+			"type": 1,
+			"x": 20,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/kyi6sP2TzGOZfdFbeJQI1L",
+			"scale": 1,
+			"orientation": 0,
+			"previewMessage": "1002",
+			"properties": {
+				"url": "https://drive.google.com/file/d/1PrygQC-2TymvIhJZPJko7GMpRINJzYAO/preview"
+			},
 			"y": 2,
+			"color": "default",
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Z7TzOjvmDwfKbiN1PUJQd9",
 			"templateId": "3v11DtV83P9eLMDJj9Hi2",
 			"id": "3v11DtV83P9eLMDJj9Hi2_7ecfc178-2e59-432b-bfe8-7d4de66574f9",
-			"scale": 1,
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/Z7TzOjvmDwfKbiN1PUJQd9",
-			"x": 20,
 			"height": 3,
 			"_tags": [
 				"Custom"
@@ -651,6 +687,9 @@
 		},
 		{
 			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/l0jE63e2xKnn4KmgtgYqR",
+			"id": "CelticHarp - u-CNykOEjbakgIL2p2glj_90a96b6f-0f91-4ba4-a4b4-7de84763aa7c",
+			"_name": "Harp (Celtic)",
+			"templateId": "CelticHarp - u-CNykOEjbakgIL2p2glj",
 			"_tags": [
 				" appliance",
 				"appliance/entertainment",
@@ -660,70 +699,17 @@
 				"st. patrick's day",
 				"office decor"
 			],
-			"id": "CelticHarp - u-CNykOEjbakgIL2p2glj_90a96b6f-0f91-4ba4-a4b4-7de84763aa7c",
+			"scale": 1,
+			"type": 0,
+			"color": "#8f563b",
+			"properties": {},
+			"height": 2,
 			"x": 46,
 			"y": 31,
-			"height": 2,
-			"properties": {},
-			"scale": 1,
-			"color": "#8f563b",
 			"orientation": 0,
-			"width": 1,
-			"_name": "Harp (Celtic)",
-			"type": 0,
-			"templateId": "CelticHarp - u-CNykOEjbakgIL2p2glj"
-		},
-		{
-			"x": 33,
-			"y": 35,
-			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_c1d3b6c5-dbde-40c8-b83a-baed99aca81a",
-			"height": 2,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
-			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			],
-			"_name": "Potted Plant (Monstera)",
-			"scale": 1,
-			"orientation": 0,
-			"type": 0,
-			"properties": {},
-			"color": "#cbdbfc",
 			"width": 1
 		},
 		{
-			"type": 0,
-			"properties": {},
-			"height": 2,
-			"color": "#cbdbfc",
-			"width": 1,
-			"scale": 1,
-			"_name": "Potted Plant (Monstera)",
-			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_c389687c-dc7e-43c6-87a3-836fc8d52375",
-			"y": 24,
-			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
-			"orientation": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
-			"x": 20,
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			]
-		},
-		{
-			"offsetX": 0,
-			"height": 2,
-			"width": 1,
-			"x": 5,
 			"_tags": [
 				"plant",
 				"decoration",
@@ -732,225 +718,248 @@
 				"flair",
 				"office decor"
 			],
-			"scale": 1,
-			"offsetY": 0,
-			"y": 5,
-			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
-			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_e516100a-6db7-427b-a445-2fb399bd0e67",
-			"orientation": 0,
-			"_name": "Potted Plant (Monstera)",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
-			"properties": {},
-			"color": "#cbdbfc",
-			"type": 0
-		},
-		{
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			],
+			"type": 0,
 			"width": 1,
-			"x": 44,
-			"orientation": 0,
-			"_name": "Potted Plant (Monstera)",
-			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
-			"color": "#cbdbfc",
-			"y": 6,
-			"type": 0,
-			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_9ed19930-36f3-4888-b40a-43747ec41c38",
-			"properties": {},
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
-			"scale": 1,
-			"height": 2
-		},
-		{
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			],
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
-			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM",
-			"y": 24,
-			"width": 1,
-			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_bd219be5-a80e-4c95-8e69-53eab80acaff",
-			"scale": 1,
-			"properties": {},
-			"x": 38,
-			"_name": "Potted Plant (Spikey)",
-			"color": "#df7126",
-			"orientation": 0,
-			"height": 2,
-			"type": 0
-		},
-		{
-			"y": 46,
-			"orientation": 0,
-			"width": 1,
-			"offsetY": 0,
-			"offsetX": 0,
-			"properties": {},
-			"_name": "Potted Plant (Spikey)",
-			"scale": 1,
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			],
-			"height": 2,
-			"type": 0,
-			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_27264a78-7d9d-4275-a4a7-741693473b15",
-			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
-			"color": "#df7126",
-			"x": 15
-		},
-		{
-			"offsetY": 0,
-			"orientation": 0,
-			"color": "#cbdbfc",
-			"y": 54,
-			"width": 2,
-			"type": 0,
-			"_tags": [
-				"outdoor",
-				"decoration",
-				"sound",
-				"sound/sound effect",
-				"ambient"
-			],
-			"_name": "Fountain (Small)",
-			"templateId": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb",
-			"scale": 1,
-			"properties": {},
-			"offsetX": 0,
-			"x": 11,
-			"id": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb_40c5ef7d-e4a3-4c5c-b6c4-f4176a54c87b",
-			"sound": {
-				"maxDistance": 5,
-				"src": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-sounds%2FbqEVsgkgJUCZRO52?alt=media&token=e5ceccd7-9334-43aa-99ee-6e1b0e5a02b8",
-				"loop": true,
-				"volume": 0.5
-			},
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FHjzzfK7whsQdtSEv?alt=media&token=d5f746f3-9f9d-4bda-ba81-cfbe76fb4ca9",
-			"height": 2
-		},
-		{
-			"offsetY": 0,
-			"sound": {
-				"loop": true,
-				"src": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-sounds%2FbqEVsgkgJUCZRO52?alt=media&token=e5ceccd7-9334-43aa-99ee-6e1b0e5a02b8",
-				"maxDistance": 5,
-				"volume": 0.5
-			},
-			"offsetX": 0,
-			"properties": {},
-			"templateId": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb",
-			"_name": "Fountain (Small)",
-			"x": 35,
-			"type": 0,
-			"color": "#cbdbfc",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FHjzzfK7whsQdtSEv?alt=media&token=d5f746f3-9f9d-4bda-ba81-cfbe76fb4ca9",
-			"id": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb_976e6065-7963-44c1-83d6-29883a96d702",
-			"width": 2,
-			"_tags": [
-				"outdoor",
-				"decoration",
-				"sound",
-				"sound/sound effect",
-				"ambient"
-			],
-			"scale": 1,
-			"orientation": 0,
-			"height": 2,
-			"y": 54
-		},
-		{
-			"height": 4,
-			"_tags": [
-				"furniture",
-				"furniture/table",
-				"antique"
-			],
-			"offsetY": 0,
-			"id": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN_8113cede-da03-42e6-9bb9-bf65e2b9d19b",
-			"orientation": 0,
-			"type": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FAH2q61KdOTkCqvde?alt=media&token=f12cd5ef-e3d0-43da-9811-01e602b48023",
-			"scale": 1,
-			"templateId": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN",
-			"x": 3,
-			"color": "#c4824e",
-			"width": 5,
-			"offsetX": 0,
-			"properties": {},
+			"x": 33,
+			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_c1d3b6c5-dbde-40c8-b83a-baed99aca81a",
 			"y": 35,
-			"_name": "Chippendale Table (3x3)"
-		},
-		{
-			"x": 40,
-			"id": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN_5966e03d-3f0e-4e69-91ca-808a7416a1f2",
 			"properties": {},
-			"type": 0,
-			"_tags": [
-				"furniture",
-				"furniture/table",
-				"antique"
-			],
-			"width": 5,
-			"y": 34,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FNzyfZReqCHJtZCwj?alt=media&token=be78ad39-9c46-4fde-b631-dbf43536627b",
-			"orientation": 0,
 			"scale": 1,
-			"templateId": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN",
-			"color": "#8f563b",
-			"height": 4,
-			"_name": "Chippendale Table (3x3)"
-		},
-		{
-			"properties": {},
-			"_name": "Chair (Small)",
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_b4ab0fd2-038f-4baf-b33d-5ae594432df7",
-			"width": 1,
-			"scale": 1,
-			"y": 33,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
-			"type": 0,
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"height": 1,
-			"color": "#c4824e",
-			"x": 41,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
+			"color": "#cbdbfc",
+			"height": 2,
+			"_name": "Potted Plant (Monstera)",
+			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
 			"orientation": 0
 		},
 		{
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
-			"height": 1,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_0f6c971d-ded8-40ed-91e8-daaa99b02f28",
+			"color": "#cbdbfc",
+			"x": 20,
 			"width": 1,
-			"color": "#c4824e",
-			"_name": "Chair (Small)",
 			"scale": 1,
-			"y": 33,
 			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
+			"y": 24,
+			"orientation": 0,
+			"height": 2,
+			"_name": "Potted Plant (Monstera)",
+			"type": 0,
+			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_c389687c-dc7e-43c6-87a3-836fc8d52375"
+		},
+		{
+			"y": 5,
+			"color": "#cbdbfc",
+			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_e516100a-6db7-427b-a445-2fb399bd0e67",
+			"type": 0,
+			"properties": {},
+			"offsetX": 0,
+			"scale": 1,
+			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"height": 2,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
+			"_name": "Potted Plant (Monstera)",
+			"offsetY": 0,
+			"width": 1,
+			"x": 5,
+			"orientation": 0
+		},
+		{
+			"orientation": 0,
+			"properties": {},
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"scale": 1,
+			"type": 0,
+			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_9ed19930-36f3-4888-b40a-43747ec41c38",
+			"width": 1,
+			"height": 2,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
+			"_name": "Potted Plant (Monstera)",
+			"x": 44,
+			"color": "#cbdbfc",
+			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
+			"y": 6
+		},
+		{
+			"properties": {},
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"width": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
+			"x": 38,
+			"orientation": 0,
+			"type": 0,
+			"color": "#df7126",
+			"scale": 1,
+			"_name": "Potted Plant (Spikey)",
+			"y": 24,
+			"height": 2,
+			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_bd219be5-a80e-4c95-8e69-53eab80acaff",
+			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM"
+		},
+		{
+			"type": 0,
+			"y": 46,
+			"orientation": 0,
+			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_27264a78-7d9d-4275-a4a7-741693473b15",
+			"properties": {},
+			"color": "#df7126",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
+			"offsetX": 0,
+			"x": 15,
+			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM",
+			"width": 1,
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"scale": 1,
+			"_name": "Potted Plant (Spikey)",
+			"offsetY": 0,
+			"height": 2
+		},
+		{
+			"_name": "Fountain (Small)",
+			"orientation": 0,
+			"x": 11,
+			"id": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb_40c5ef7d-e4a3-4c5c-b6c4-f4176a54c87b",
+			"color": "#cbdbfc",
+			"height": 2,
+			"sound": {
+				"maxDistance": 5,
+				"volume": 0.5,
+				"src": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-sounds%2FbqEVsgkgJUCZRO52?alt=media&token=e5ceccd7-9334-43aa-99ee-6e1b0e5a02b8",
+				"loop": true
+			},
+			"_tags": [
+				"outdoor",
+				"decoration",
+				"sound",
+				"sound/sound effect",
+				"ambient"
+			],
+			"width": 2,
+			"offsetX": 0,
+			"offsetY": 0,
+			"scale": 1,
+			"type": 0,
+			"properties": {},
+			"y": 54,
+			"templateId": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FHjzzfK7whsQdtSEv?alt=media&token=d5f746f3-9f9d-4bda-ba81-cfbe76fb4ca9"
+		},
+		{
+			"properties": {},
+			"x": 35,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FHjzzfK7whsQdtSEv?alt=media&token=d5f746f3-9f9d-4bda-ba81-cfbe76fb4ca9",
+			"color": "#cbdbfc",
+			"orientation": 0,
+			"width": 2,
+			"type": 0,
+			"height": 2,
+			"sound": {
+				"volume": 0.5,
+				"maxDistance": 5,
+				"loop": true,
+				"src": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-sounds%2FbqEVsgkgJUCZRO52?alt=media&token=e5ceccd7-9334-43aa-99ee-6e1b0e5a02b8"
+			},
+			"offsetX": 0,
+			"_tags": [
+				"outdoor",
+				"decoration",
+				"sound",
+				"sound/sound effect",
+				"ambient"
+			],
+			"scale": 1,
+			"templateId": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb",
+			"y": 54,
+			"id": "FountainSmallSound - usQ3l48N-tWYNxPuPcHyb_976e6065-7963-44c1-83d6-29883a96d702",
+			"_name": "Fountain (Small)",
+			"offsetY": 0
+		},
+		{
+			"y": 35,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FAH2q61KdOTkCqvde?alt=media&token=f12cd5ef-e3d0-43da-9811-01e602b48023",
+			"type": 0,
+			"_tags": [
+				"furniture",
+				"furniture/table",
+				"antique"
+			],
+			"orientation": 0,
+			"width": 5,
+			"scale": 1,
+			"templateId": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN",
+			"_name": "Chippendale Table (3x3)",
+			"offsetY": 0,
+			"properties": {},
+			"height": 4,
+			"color": "#c4824e",
+			"id": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN_8113cede-da03-42e6-9bb9-bf65e2b9d19b",
+			"x": 3,
+			"offsetX": 0
+		},
+		{
+			"color": "#8f563b",
+			"templateId": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN",
+			"_tags": [
+				"furniture",
+				"furniture/table",
+				"antique"
+			],
+			"id": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN_5966e03d-3f0e-4e69-91ca-808a7416a1f2",
+			"height": 4,
+			"type": 0,
+			"width": 5,
+			"_name": "Chippendale Table (3x3)",
+			"orientation": 0,
+			"x": 40,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FNzyfZReqCHJtZCwj?alt=media&token=be78ad39-9c46-4fde-b631-dbf43536627b",
+			"scale": 1,
+			"y": 34,
+			"properties": {}
+		},
+		{
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_b4ab0fd2-038f-4baf-b33d-5ae594432df7",
+			"orientation": 0,
+			"x": 41,
+			"scale": 1,
+			"width": 1,
+			"y": 33,
 			"type": 0,
 			"_tags": [
 				"office",
@@ -961,11 +970,119 @@
 				"furniture/seating",
 				"furniture/seating/chair"
 			],
-			"x": 42,
-			"orientation": 0,
+			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
+			"height": 1,
+			"color": "#c4824e",
+			"_name": "Chair (Small)",
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei"
 		},
 		{
+			"scale": 1,
+			"_name": "Chair (Small)",
+			"orientation": 0,
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"width": 1,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
+			"type": 0,
+			"height": 1,
+			"x": 42,
+			"properties": {},
+			"y": 33,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_0f6c971d-ded8-40ed-91e8-daaa99b02f28",
+			"color": "#c4824e"
+		},
+		{
+			"orientation": 0,
+			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
+			"color": "#c4824e",
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"type": 0,
+			"x": 43,
+			"height": 1,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_12f9c053-2634-4fcb-a23b-b69746463761",
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"y": 33,
+			"_name": "Chair (Small)",
+			"scale": 1,
+			"width": 1
+		},
+		{
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"properties": {},
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_ad4a465a-affd-4715-86d2-26b1b806eef7",
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"color": "#c4824e",
+			"y": 34,
+			"height": 1,
+			"x": 44,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
+			"scale": 1,
+			"_name": "Chair (Small)",
+			"width": 1,
+			"orientation": 3,
+			"type": 0
+		},
+		{
+			"orientation": 3,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_e4f4b378-dcb1-4325-81b9-fbe7e54c1a52",
+			"y": 35,
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"_name": "Chair (Small)",
+			"width": 1,
+			"type": 0,
+			"height": 1,
+			"color": "#c4824e",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
+			"scale": 1,
+			"properties": {},
+			"x": 44,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei"
+		},
+		{
+			"_name": "Chair (Small)",
+			"color": "#c4824e",
+			"properties": {},
+			"orientation": 3,
+			"type": 0,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_f3615519-23c7-449f-985b-d3c45bf8f3a1",
+			"y": 36,
+			"height": 1,
+			"width": 1,
 			"_tags": [
 				"office",
 				"education",
@@ -976,33 +1093,120 @@
 				"furniture/seating/chair"
 			],
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"height": 1,
-			"width": 1,
 			"scale": 1,
-			"y": 33,
-			"_name": "Chair (Small)",
-			"orientation": 0,
-			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
+			"x": 44
+		},
+		{
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
 			"x": 43,
 			"color": "#c4824e",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_12f9c053-2634-4fcb-a23b-b69746463761",
+			"height": 1,
+			"_name": "Chair (Small)",
+			"properties": {},
+			"orientation": 2,
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"scale": 1,
+			"width": 1,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_e8f40a91-15f5-4945-ad80-18834fdf228b",
+			"y": 37,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
 			"type": 0
 		},
 		{
-			"scale": 1,
-			"y": 34,
+			"orientation": 2,
+			"_name": "Chair (Small)",
+			"height": 1,
+			"color": "#c4824e",
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
 			"properties": {},
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_cd32a98b-8752-450b-82e4-a1c5aac08c07",
+			"scale": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
+			"type": 0,
+			"x": 42,
+			"width": 1,
+			"y": 37
+		},
+		{
+			"type": 0,
+			"height": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
+			"properties": {},
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"width": 1,
+			"x": 41,
+			"color": "#c4824e",
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_b9b43c6b-307a-4b62-9877-ec2b102d88d3",
+			"scale": 1,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"y": 37,
+			"_name": "Chair (Small)",
+			"orientation": 2
+		},
+		{
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"width": 1,
+			"x": 40,
+			"height": 1,
+			"scale": 1,
+			"properties": {},
+			"y": 36,
 			"_name": "Chair (Small)",
 			"type": 0,
+			"orientation": 1,
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"color": "#c4824e",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_0efb56a3-4e08-4119-b664-267dd8dfd087"
+		},
+		{
+			"type": 0,
+			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
+			"scale": 1,
+			"x": 40,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_32d628cd-7b8d-4165-be5d-e215b725b151",
+			"height": 1,
+			"width": 1,
 			"color": "#c4824e",
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"x": 44,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
-			"orientation": 3,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_ad4a465a-affd-4715-86d2-26b1b806eef7",
-			"width": 1,
-			"height": 1,
+			"orientation": 1,
+			"_name": "Chair (Small)",
+			"y": 35,
 			"_tags": [
 				"office",
 				"education",
@@ -1014,133 +1218,9 @@
 			]
 		},
 		{
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"type": 0,
-			"color": "#c4824e",
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"properties": {},
-			"scale": 1,
-			"height": 1,
-			"_name": "Chair (Small)",
-			"orientation": 3,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
-			"y": 35,
-			"width": 1,
-			"x": 44,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_e4f4b378-dcb1-4325-81b9-fbe7e54c1a52"
-		},
-		{
-			"properties": {},
-			"x": 44,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
-			"y": 36,
-			"_name": "Chair (Small)",
-			"height": 1,
-			"type": 0,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_f3615519-23c7-449f-985b-d3c45bf8f3a1",
-			"orientation": 3,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"color": "#c4824e",
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"width": 1,
-			"scale": 1
-		},
-		{
-			"color": "#c4824e",
-			"type": 0,
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"height": 1,
-			"y": 37,
-			"_name": "Chair (Small)",
-			"orientation": 2,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"x": 43,
-			"properties": {},
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_e8f40a91-15f5-4945-ad80-18834fdf228b",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
-			"scale": 1,
-			"width": 1
-		},
-		{
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_cd32a98b-8752-450b-82e4-a1c5aac08c07",
-			"_name": "Chair (Small)",
-			"scale": 1,
-			"width": 1,
-			"type": 0,
-			"orientation": 2,
-			"color": "#c4824e",
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"y": 37,
-			"height": 1,
-			"properties": {},
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
-			"x": 42
-		},
-		{
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_b9b43c6b-307a-4b62-9877-ec2b102d88d3",
-			"x": 41,
-			"properties": {},
-			"y": 37,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
-			"height": 1,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"_name": "Chair (Small)",
-			"color": "#c4824e",
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"orientation": 2,
-			"type": 0,
-			"width": 1,
-			"scale": 1
-		},
-		{
-			"scale": 1,
-			"height": 1,
-			"_name": "Chair (Small)",
 			"orientation": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"y": 36,
+			"color": "#c4824e",
+			"type": 0,
 			"_tags": [
 				"office",
 				"education",
@@ -1150,117 +1230,81 @@
 				"furniture/seating",
 				"furniture/seating/chair"
 			],
-			"x": 40,
-			"type": 0,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_0efb56a3-4e08-4119-b664-267dd8dfd087",
-			"color": "#c4824e",
-			"properties": {},
-			"width": 1
-		},
-		{
-			"x": 40,
-			"height": 1,
-			"_name": "Chair (Small)",
-			"type": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
-			"width": 1,
-			"orientation": 1,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_32d628cd-7b8d-4165-be5d-e215b725b151",
-			"color": "#c4824e",
-			"properties": {},
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"y": 35,
-			"scale": 1
-		},
-		{
-			"height": 1,
 			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_89dfebea-6db0-4ad5-a164-60c7dee782d0",
-			"properties": {},
 			"scale": 1,
-			"width": 1,
-			"x": 40,
+			"properties": {},
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
 			"y": 34,
-			"orientation": 1,
-			"type": 0,
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"_name": "Chair (Small)",
+			"width": 1,
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
-			"color": "#c4824e"
+			"height": 1,
+			"x": 40,
+			"_name": "Chair (Small)"
 		},
 		{
-			"type": 0,
 			"y": 36,
+			"orientation": 1,
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
 			"_name": "Chair (Small)",
+			"scale": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"color": "#c4824e",
+			"width": 1,
 			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_c89b6271-96a4-4c55-8ab8-91690e86ef6b",
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"color": "#c4824e",
-			"orientation": 1,
 			"x": 3,
-			"height": 1,
-			"scale": 1,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"width": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
-			"properties": {}
-		},
-		{
-			"_name": "Chair (Small)",
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
-			"scale": 1,
-			"y": 35,
-			"x": 3,
-			"orientation": 1,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_23103606-c6c8-4d1d-b643-82016d92908c",
-			"width": 1,
-			"color": "#c4824e",
-			"height": 1,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
 			"type": 0,
-			"properties": {}
+			"properties": {},
+			"height": 1
 		},
 		{
+			"color": "#c4824e",
 			"orientation": 1,
-			"x": 3,
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"x": 3,
+			"y": 35,
+			"properties": {},
+			"type": 0,
+			"scale": 1,
+			"width": 1,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_23103606-c6c8-4d1d-b643-82016d92908c",
+			"height": 1,
+			"_name": "Chair (Small)"
+		},
+		{
+			"offsetY": 0,
 			"_name": "Chair (Small)",
 			"offsetX": 0,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"x": 3,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_999a46b1-7cd1-4d7e-8581-c6334569739f",
+			"scale": 1,
+			"orientation": 1,
+			"type": 0,
+			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
+			"width": 1,
 			"height": 1,
 			"y": 37,
+			"color": "#c4824e",
 			"_tags": [
 				"office",
 				"education",
@@ -1269,49 +1313,23 @@
 				"furniture",
 				"furniture/seating",
 				"furniture/seating/chair"
-			],
-			"color": "#c4824e",
-			"type": 0,
-			"width": 1,
-			"properties": {},
-			"offsetY": 0,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_999a46b1-7cd1-4d7e-8581-c6334569739f",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FBNLdil2rv8EBM1kz?alt=media&token=9e099127-db58-4869-8fd4-7153554253ce",
-			"scale": 1
+			]
 		},
 		{
-			"y": 34,
-			"offsetX": 0,
-			"offsetY": 0,
-			"height": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
 			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_95bcbedc-cce6-4930-9eff-7481bb94fa27",
+			"offsetX": 0,
+			"y": 34,
 			"color": "#c4824e",
-			"orientation": 0,
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"type": 0,
-			"properties": {},
-			"scale": 1,
-			"width": 1,
-			"_name": "Chair (Small)",
+			"height": 1,
 			"x": 4,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei"
-		},
-		{
-			"type": 0,
-			"_name": "Chair (Small)",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
 			"offsetY": 0,
-			"y": 34,
-			"height": 1,
+			"properties": {},
+			"type": 0,
+			"orientation": 0,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"scale": 1,
+			"_name": "Chair (Small)",
+			"width": 1,
 			"_tags": [
 				"office",
 				"education",
@@ -1321,26 +1339,46 @@
 				"furniture/seating",
 				"furniture/seating/chair"
 			],
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"offsetX": 0,
-			"properties": {},
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_c827428b-e3f8-4672-b286-2473aa7f009f",
-			"color": "#c4824e",
-			"scale": 1,
-			"width": 1,
-			"orientation": 0,
-			"x": 5
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e"
 		},
 		{
-			"height": 1,
+			"orientation": 0,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
 			"scale": 1,
-			"y": 34,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
 			"properties": {},
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
+			"type": 0,
+			"x": 5,
+			"width": 1,
 			"offsetX": 0,
+			"color": "#c4824e",
+			"offsetY": 0,
+			"y": 34,
+			"_name": "Chair (Small)",
+			"height": 1,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_c827428b-e3f8-4672-b286-2473aa7f009f"
+		},
+		{
+			"y": 34,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
+			"type": 0,
+			"color": "#c4824e",
+			"width": 1,
+			"offsetY": 0,
+			"scale": 1,
+			"properties": {},
+			"height": 1,
 			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_4b2780fc-cc1c-4b99-ac0e-e613f184ac13",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FesQjHrhD4UAZx2tC?alt=media&token=6190190f-8618-450a-8bcb-72b498594f7e",
-			"orientation": 0,
-			"type": 0,
+			"_name": "Chair (Small)",
 			"_tags": [
 				"office",
 				"education",
@@ -1350,23 +1388,25 @@
 				"furniture/seating",
 				"furniture/seating/chair"
 			],
-			"_name": "Chair (Small)",
-			"color": "#c4824e",
-			"offsetY": 0,
-			"width": 1,
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"offsetX": 0,
+			"orientation": 0,
 			"x": 6
 		},
 		{
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
 			"type": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
-			"color": "#c4824e",
-			"height": 1,
-			"offsetY": 0,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_1d9549d0-c8cf-4449-aac7-a911fcc47368",
-			"scale": 1,
 			"_name": "Chair (Small)",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
+			"height": 1,
+			"scale": 1,
+			"offsetX": 0,
+			"properties": {},
+			"y": 37,
+			"offsetY": 0,
+			"orientation": 3,
+			"width": 1,
+			"x": 7,
 			"_tags": [
 				"office",
 				"education",
@@ -1376,14 +1416,11 @@
 				"furniture/seating",
 				"furniture/seating/chair"
 			],
-			"y": 37,
-			"orientation": 3,
-			"offsetX": 0,
-			"width": 1,
-			"properties": {},
-			"x": 7
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_1d9549d0-c8cf-4449-aac7-a911fcc47368",
+			"color": "#c4824e"
 		},
 		{
+			"properties": {},
 			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_3d7bc262-4afa-4768-91ae-08df83752cef",
 			"scale": 1,
 			"_tags": [
@@ -1395,47 +1432,22 @@
 				"furniture/seating",
 				"furniture/seating/chair"
 			],
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
-			"y": 35,
-			"x": 7,
-			"properties": {},
-			"color": "#c4824e",
-			"type": 0,
-			"_name": "Chair (Small)",
 			"width": 1,
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
 			"height": 1,
-			"orientation": 3
-		},
-		{
-			"scale": 1,
-			"properties": {},
+			"y": 35,
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
-			"x": 7,
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"height": 1,
 			"_name": "Chair (Small)",
-			"color": "#c4824e",
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_c50aa961-09d9-48b3-b27f-c0b30a1f6aa4",
 			"orientation": 3,
 			"type": 0,
-			"width": 1,
 			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"y": 36
+			"color": "#c4824e",
+			"x": 7
 		},
 		{
-			"height": 1,
-			"width": 1,
-			"color": "#c4824e",
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_02d65584-76ce-41a5-9d86-1ffed42359e3",
+			"x": 7,
+			"properties": {},
+			"y": 36,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_c50aa961-09d9-48b3-b27f-c0b30a1f6aa4",
 			"_tags": [
 				"office",
 				"education",
@@ -1445,60 +1457,58 @@
 				"furniture/seating",
 				"furniture/seating/chair"
 			],
-			"type": 0,
-			"x": 6,
+			"color": "#c4824e",
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FualiNCC2OpzflDMe?alt=media&token=92f53329-7eff-48ba-b319-01327a7f372c",
+			"orientation": 3,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
 			"_name": "Chair (Small)",
+			"type": 0
+		},
+		{
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
+			"_name": "Chair (Small)",
+			"orientation": 2,
+			"type": 0,
+			"height": 1,
+			"width": 1,
+			"color": "#c4824e",
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"offsetX": 0,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_02d65584-76ce-41a5-9d86-1ffed42359e3",
+			"y": 38,
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
 			"scale": 1,
 			"offsetY": 0,
 			"properties": {},
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"y": 38,
-			"offsetX": 0,
-			"orientation": 2
+			"x": 6
 		},
 		{
-			"width": 1,
-			"_name": "Chair (Small)",
 			"y": 38,
-			"offsetY": 0,
-			"color": "#c4824e",
+			"width": 1,
+			"offsetX": 0,
+			"height": 1,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_8cbb7425-66a3-4d18-9d3c-6660a913b1db",
 			"properties": {},
 			"orientation": 2,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"color": "#c4824e",
+			"scale": 1,
 			"x": 5,
 			"type": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
-			"height": 1,
-			"_tags": [
-				"office",
-				"education",
-				"conference",
-				"outdoor",
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair"
-			],
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"scale": 1,
-			"offsetX": 0,
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_8cbb7425-66a3-4d18-9d3c-6660a913b1db"
-		},
-		{
-			"color": "#c4824e",
-			"orientation": 2,
-			"offsetX": 0,
-			"properties": {},
-			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_8689e3f1-c41c-4a6c-bc08-c275749cb857",
-			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
-			"type": 0,
-			"offsetY": 0,
-			"y": 38,
-			"x": 4,
-			"height": 1,
-			"width": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
-			"scale": 1,
 			"_name": "Chair (Small)",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
+			"offsetY": 0,
 			"_tags": [
 				"office",
 				"education",
@@ -1510,532 +1520,541 @@
 			]
 		},
 		{
-			"_name": "Art Deco Armchair",
-			"width": 3,
-			"color": "#37946e",
+			"height": 1,
+			"color": "#c4824e",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FVTfyNVZ9MFWAklKE?alt=media&token=f2708245-40f5-4391-b50c-4ee5c9dcece5",
+			"_tags": [
+				"office",
+				"education",
+				"conference",
+				"outdoor",
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair"
+			],
 			"type": 0,
+			"_name": "Chair (Small)",
+			"width": 1,
+			"y": 38,
+			"templateId": "Chair (Small) - JCnSdxNsBW4_aBViiH1Ei",
+			"scale": 1,
+			"x": 4,
+			"id": "Chair (Small) - JCnSdxNsBW4aBViiH1Ei_8689e3f1-c41c-4a6c-bc08-c275749cb857",
+			"properties": {},
+			"orientation": 2,
+			"offsetX": 0,
+			"offsetY": 0
+		},
+		{
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"x": 41,
+			"y": 43,
+			"color": "#37946e",
 			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/hck6lFFt6gID7K0FNonWh",
+			"height": 1,
+			"_name": "Art Deco Armchair",
+			"orientation": 0,
+			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
+			"scale": 1,
+			"type": 0,
+			"properties": {},
 			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_bdbc0814-9740-443d-923f-e5e6c41a280c",
-			"x": 41,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"height": 1,
-			"properties": {},
-			"scale": 1,
-			"y": 43,
-			"orientation": 0,
-			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV"
+			"width": 3
 		},
 		{
-			"scale": 1,
-			"color": "#37946e",
-			"orientation": 0,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/hck6lFFt6gID7K0FNonWh",
-			"properties": {},
-			"width": 3,
-			"x": 43,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"type": 0,
-			"y": 43,
 			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_8c61af6b-355c-43bf-bdb7-68efd56e5029",
-			"_name": "Art Deco Armchair",
-			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
-			"height": 1
-		},
-		{
-			"type": 0,
-			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_e22c7dfb-f4fd-4892-bc78-bd21b4f84b89",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Beg8i7lzMMd8UAjwg2xwj",
-			"width": 1,
-			"offsetY": 0,
-			"scale": 1,
-			"offsetX": 0,
-			"x": 45,
-			"properties": {},
-			"_name": "Art Deco Armchair",
-			"height": 3,
-			"color": "#9badb7",
-			"orientation": 1,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
-			"y": 43
-		},
-		{
-			"y": 45,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Beg8i7lzMMd8UAjwg2xwj",
-			"scale": 1,
-			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
-			"x": 45,
-			"offsetY": 0,
-			"height": 3,
-			"properties": {},
-			"offsetX": 0,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"width": 1,
-			"type": 0,
-			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_7e4f21b8-3ad5-4b7a-aee0-554c36b2d0c4",
-			"orientation": 1,
-			"_name": "Art Deco Armchair",
-			"color": "#9badb7"
-		},
-		{
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
 			"width": 3,
-			"height": 1,
-			"color": "#323c39",
-			"y": 47,
-			"offsetX": 0,
+			"x": 43,
 			"_name": "Art Deco Armchair",
+			"height": 1,
 			"properties": {},
-			"offsetY": 0,
-			"orientation": 2,
-			"type": 0,
-			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_07d9e146-3c66-4a7c-8881-bfd64ad94c4a",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Vpo6px3SDRaNm1Btu_h0U",
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"y": 43,
+			"color": "#37946e",
+			"orientation": 0,
 			"scale": 1,
 			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
-			"x": 43
-		},
-		{
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"offsetX": 0,
-			"scale": 1,
-			"offsetY": 0,
-			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_7fbac6be-962f-418f-9c51-c4529d5bc2e6",
-			"_name": "Art Deco Armchair",
-			"type": 0,
-			"color": "#323c39",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Vpo6px3SDRaNm1Btu_h0U",
-			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
-			"x": 41,
-			"y": 47,
-			"height": 1,
-			"orientation": 2,
-			"width": 3,
-			"properties": {}
-		},
-		{
-			"x": 38,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fbnz0ubRPYwNPDwvr?alt=media&token=37040f30-5000-4fac-891c-7d9cf21d013a",
-			"color": "#d5a7fa",
-			"height": 2,
-			"orientation": 1,
-			"templateId": "AntiqueFloralRug2x3 - 7KTyWGLOfgg_BE4VVdRQa",
-			"type": 0,
-			"_tags": [
-				"decoration",
-				"decoration/floor",
-				"decoration/floor/rug",
-				"antique"
-			],
-			"_name": "Floral Rug (2x3)",
-			"scale": 1,
-			"id": "AntiqueFloralRug2x3 - 7KTyWGLOfggBE4VVdRQa_044468b7-2360-4fcd-b140-de8fc0021673",
-			"width": 5,
-			"y": 49,
-			"properties": {}
-		},
-		{
-			"orientation": 3,
-			"type": 0,
-			"templateId": "JugendstilBench - un6I6AMSEL6Dbo-1PW_TG",
-			"y": 49,
-			"id": "JugendstilBench - un6I6AMSEL6Dbo-1PWTG_dd36cd40-5338-406d-a612-a8401d43bd7f",
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"_name": "Jugendstil Bench",
-			"properties": {},
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/lA5gnyprhQ586YNuosUkj",
-			"color": "#d5a7fa",
-			"scale": 1,
-			"width": 1,
-			"height": 2,
-			"x": 39
-		},
-		{
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/b9ydbsN86Y6xbgTAjr9Ly",
-			"type": 0,
-			"color": "#37946e",
-			"height": 2,
-			"width": 1,
-			"scale": 1,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"_name": "Jugendstil Bench",
-			"x": 45,
-			"orientation": 1,
-			"y": 49,
-			"id": "JugendstilBench - un6I6AMSEL6Dbo-1PWTG_e306122b-6e28-4570-bb30-ca6d93c53407",
-			"properties": {},
-			"templateId": "JugendstilBench - un6I6AMSEL6Dbo-1PW_TG"
-		},
-		{
-			"_name": "Floral Rug (3x3)",
-			"templateId": "AntiqueFloralRug5x5 - ReDLINCy26JiZhnc7YEax",
-			"_tags": [
-				"decoration",
-				"decoration/floor",
-				"decoration/floor/rug",
-				"antique"
-			],
-			"scale": 1,
-			"id": "AntiqueFloralRug5x5 - ReDLINCy26JiZhnc7YEax_327ae934-3f91-4ba2-9992-ef8fbc5c51c1",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FmmHJD6hQ5rhRv04u?alt=media&token=abecdea4-2b5d-4510-b152-03ae7c771c20",
-			"type": 0,
-			"x": 42,
-			"width": 5,
-			"y": 49,
-			"height": 3,
-			"color": "#d5a7fa",
-			"orientation": 1,
-			"properties": {}
-		},
-		{
-			"properties": {},
-			"templateId": "JugendstilBench - un6I6AMSEL6Dbo-1PW_TG",
-			"scale": 1,
-			"orientation": 2,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"_name": "Jugendstil Bench",
-			"id": "JugendstilBench - un6I6AMSEL6Dbo-1PWTG_9062cf06-c217-4139-b6a2-729080a96e1c",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/n5dcEQdvXK7YQYfwK6ICr",
-			"type": 0,
-			"y": 51,
-			"color": "#37946e",
-			"height": 1,
-			"offsetY": 0,
-			"x": 43,
-			"offsetX": 0,
-			"width": 2
-		},
-		{
-			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
-			"height": 1,
-			"properties": {},
-			"x": 41,
-			"y": 49,
-			"type": 0,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"color": "#323c39",
-			"orientation": 1,
-			"scale": 1,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/BoJm_45D55TxXC3C8oTI9",
-			"width": 1,
-			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_d155b98e-2103-461d-b94f-167fad7098a5",
-			"_name": "Jugendstil Seat"
-		},
-		{
-			"orientation": 1,
-			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
-			"_name": "Jugendstil Seat",
-			"color": "#76428a",
-			"type": 0,
-			"properties": {},
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"scale": 1,
-			"y": 50,
-			"width": 1,
-			"height": 1,
-			"x": 41,
-			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_6496cf7f-9054-4eee-bebd-6e5cc185343d",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/k7CVTklG13-o0lynRJXMv"
-		},
-		{
-			"x": 44,
-			"offsetY": 0,
-			"color": "#502858",
-			"_name": "Jugendstil Seat",
-			"type": 0,
-			"orientation": 0,
-			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_f72cd3fb-7f7b-46c9-8834-a7c3189ef8c6",
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/z-a9mco4cZdK1fLTFyOle",
-			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
-			"height": 1,
-			"properties": {},
-			"scale": 1,
-			"offsetX": 0,
-			"width": 1,
-			"y": 49
-		},
-		{
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"properties": {},
-			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
-			"type": 0,
-			"offsetY": 0,
-			"height": 1,
-			"width": 1,
-			"x": 43,
-			"color": "#502858",
-			"orientation": 0,
-			"offsetX": 0,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/z-a9mco4cZdK1fLTFyOle",
-			"_name": "Jugendstil Seat",
-			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_90f5f1cd-ec0b-4ac0-b359-b1a83bd3434a",
-			"y": 49,
-			"scale": 1
-		},
-		{
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/QSqG59DjlC7-VwWmtvjlA",
-			"type": 0,
-			"x": 45,
-			"properties": {},
-			"width": 1,
-			"height": 1,
-			"orientation": 1,
-			"_name": "Jugendstil Seat",
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"antique"
-			],
-			"offsetY": 0,
-			"scale": 1,
-			"offsetX": 0,
-			"y": 50,
-			"color": "#cbdbfc",
-			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
-			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_833dcb72-2005-44e6-9e8c-e2317ef5bc20"
-		},
-		{
-			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_1e2f18fc-e09a-4b06-96ae-617427a90950",
-			"x": 38,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
-			"type": 0,
-			"height": 2,
-			"color": "#cbdbfc",
-			"scale": 1,
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			],
-			"width": 1,
-			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
-			"properties": {},
-			"_name": "Potted Plant (Monstera)",
-			"orientation": 0,
-			"y": 50
-		},
-		{
-			"scale": 1,
-			"type": 0,
-			"orientation": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
-			"height": 2,
-			"_name": "Potted Plant (Spikey)",
-			"width": 1,
-			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_1cda0f34-bab3-4b63-a6fa-ac2f540d9bc6",
-			"properties": {},
-			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM",
-			"x": 46,
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			],
-			"color": "#df7126",
-			"y": 50
-		},
-		{
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
-			"y": 42,
-			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM",
-			"height": 2,
-			"type": 0,
-			"width": 1,
-			"x": 46,
-			"_tags": [
-				"plant",
-				"decoration",
-				"decoration/plant",
-				"decoration/plant/potted",
-				"flair",
-				"office decor"
-			],
-			"color": "#df7126",
-			"properties": {},
-			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_0bfa28fc-04a9-45df-b444-e63502c90567",
-			"_name": "Potted Plant (Spikey)",
-			"orientation": 0,
-			"scale": 1
-		},
-		{
-			"x": 45,
-			"id": "Bouquet - WloytVaTW1GhAG7hW3xQi_d3262de2-8b2d-4997-8c74-974854e644a3",
-			"templateId": "Bouquet - WloytVaTW1GhAG7hW3xQi",
-			"_name": "Bouquet",
-			"orientation": 0,
-			"width": 1,
-			"color": "#cbdbfc",
-			"_tags": [
-				"decoration",
-				"decoration/tabletop",
-				"valentine's day",
-				"holiday",
-				"plant",
-				"plant/other",
-				"plant/flower",
-				"roses",
-				"celebration",
-				"flair",
-				"office decor"
-			],
-			"scale": 1,
-			"properties": {},
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F3EqOx0QasgvJ33qF?alt=media&token=3c3fbcc4-3887-45cd-9204-1272523c3e69",
-			"type": 0,
-			"y": 48,
-			"height": 2
-		},
-		{
-			"id": "Bouquet - WloytVaTW1GhAG7hW3xQi_e108ef11-befa-445f-a108-a5ba915ae9a9",
-			"properties": {},
-			"y": 35,
-			"templateId": "Bouquet - WloytVaTW1GhAG7hW3xQi",
-			"orientation": 0,
-			"offsetX": 0,
-			"_name": "Bouquet",
-			"x": 5,
-			"width": 1,
-			"_tags": [
-				"decoration",
-				"decoration/tabletop",
-				"valentine's day",
-				"holiday",
-				"plant",
-				"plant/other",
-				"plant/flower",
-				"roses",
-				"celebration",
-				"flair",
-				"office decor"
-			],
-			"scale": 1,
-			"offsetY": 0,
-			"height": 2,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F3EqOx0QasgvJ33qF?alt=media&token=3c3fbcc4-3887-45cd-9204-1272523c3e69",
-			"color": "#cbdbfc",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/hck6lFFt6gID7K0FNonWh",
 			"type": 0
 		},
 		{
+			"height": 3,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Beg8i7lzMMd8UAjwg2xwj",
+			"y": 43,
+			"color": "#9badb7",
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"orientation": 1,
+			"_name": "Art Deco Armchair",
+			"width": 1,
+			"offsetX": 0,
+			"offsetY": 0,
+			"properties": {},
+			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
+			"type": 0,
+			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_e22c7dfb-f4fd-4892-bc78-bd21b4f84b89",
+			"x": 45,
+			"scale": 1
+		},
+		{
+			"height": 3,
+			"_name": "Art Deco Armchair",
+			"orientation": 1,
+			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_7e4f21b8-3ad5-4b7a-aee0-554c36b2d0c4",
+			"offsetX": 0,
+			"offsetY": 0,
+			"properties": {},
+			"type": 0,
+			"width": 1,
+			"scale": 1,
+			"x": 45,
+			"color": "#9badb7",
+			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
+			"y": 45,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Beg8i7lzMMd8UAjwg2xwj"
+		},
+		{
+			"type": 0,
+			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
+			"x": 43,
+			"_name": "Art Deco Armchair",
+			"width": 3,
+			"scale": 1,
+			"offsetY": 0,
+			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_07d9e146-3c66-4a7c-8881-bfd64ad94c4a",
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"y": 47,
+			"color": "#323c39",
+			"height": 1,
+			"offsetX": 0,
+			"properties": {},
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Vpo6px3SDRaNm1Btu_h0U",
+			"orientation": 2
+		},
+		{
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"x": 41,
+			"y": 47,
+			"width": 3,
+			"color": "#323c39",
+			"orientation": 2,
+			"offsetY": 0,
+			"type": 0,
+			"id": "ArtDecoArmchair - F2kC24naVJ-nIq89qOlV_7fbac6be-962f-418f-9c51-c4529d5bc2e6",
+			"properties": {},
+			"_name": "Art Deco Armchair",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/Vpo6px3SDRaNm1Btu_h0U",
+			"templateId": "ArtDecoArmchair - F2kC_24naVJ-nIq89qOlV",
+			"height": 1,
+			"offsetX": 0,
+			"scale": 1
+		},
+		{
+			"height": 2,
+			"scale": 1,
+			"templateId": "AntiqueFloralRug2x3 - 7KTyWGLOfgg_BE4VVdRQa",
+			"orientation": 1,
+			"properties": {},
+			"width": 5,
+			"_tags": [
+				"decoration",
+				"decoration/floor",
+				"decoration/floor/rug",
+				"antique"
+			],
+			"color": "#d5a7fa",
+			"y": 49,
+			"x": 38,
+			"id": "AntiqueFloralRug2x3 - 7KTyWGLOfggBE4VVdRQa_044468b7-2360-4fcd-b140-de8fc0021673",
+			"_name": "Floral Rug (2x3)",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fbnz0ubRPYwNPDwvr?alt=media&token=37040f30-5000-4fac-891c-7d9cf21d013a",
+			"type": 0
+		},
+		{
+			"scale": 1,
+			"y": 49,
+			"properties": {},
+			"id": "JugendstilBench - un6I6AMSEL6Dbo-1PWTG_dd36cd40-5338-406d-a612-a8401d43bd7f",
+			"width": 1,
+			"x": 39,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"type": 0,
+			"height": 2,
+			"templateId": "JugendstilBench - un6I6AMSEL6Dbo-1PW_TG",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/lA5gnyprhQ586YNuosUkj",
+			"_name": "Jugendstil Bench",
+			"orientation": 3,
+			"color": "#d5a7fa"
+		},
+		{
+			"color": "#37946e",
+			"width": 1,
+			"id": "JugendstilBench - un6I6AMSEL6Dbo-1PWTG_e306122b-6e28-4570-bb30-ca6d93c53407",
+			"templateId": "JugendstilBench - un6I6AMSEL6Dbo-1PW_TG",
+			"x": 45,
+			"scale": 1,
+			"type": 0,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"properties": {},
+			"_name": "Jugendstil Bench",
+			"y": 49,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/b9ydbsN86Y6xbgTAjr9Ly",
+			"height": 2,
+			"orientation": 1
+		},
+		{
+			"_name": "Floral Rug (3x3)",
+			"width": 5,
+			"id": "AntiqueFloralRug5x5 - ReDLINCy26JiZhnc7YEax_327ae934-3f91-4ba2-9992-ef8fbc5c51c1",
+			"_tags": [
+				"decoration",
+				"decoration/floor",
+				"decoration/floor/rug",
+				"antique"
+			],
+			"color": "#d5a7fa",
+			"y": 49,
+			"type": 0,
+			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FmmHJD6hQ5rhRv04u?alt=media&token=abecdea4-2b5d-4510-b152-03ae7c771c20",
+			"x": 42,
+			"height": 3,
+			"templateId": "AntiqueFloralRug5x5 - ReDLINCy26JiZhnc7YEax",
+			"orientation": 1,
+			"scale": 1
+		},
+		{
+			"y": 51,
+			"color": "#37946e",
+			"height": 1,
+			"x": 43,
+			"id": "JugendstilBench - un6I6AMSEL6Dbo-1PWTG_9062cf06-c217-4139-b6a2-729080a96e1c",
+			"properties": {},
+			"_name": "Jugendstil Bench",
+			"templateId": "JugendstilBench - un6I6AMSEL6Dbo-1PW_TG",
+			"offsetX": 0,
+			"orientation": 2,
+			"scale": 1,
+			"type": 0,
+			"width": 2,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/n5dcEQdvXK7YQYfwK6ICr",
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"offsetY": 0
+		},
+		{
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_d155b98e-2103-461d-b94f-167fad7098a5",
+			"color": "#323c39",
+			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
+			"scale": 1,
+			"x": 41,
+			"type": 0,
+			"_name": "Jugendstil Seat",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/BoJm_45D55TxXC3C8oTI9",
+			"orientation": 1,
+			"width": 1,
+			"properties": {},
+			"y": 49,
+			"height": 1
+		},
+		{
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/k7CVTklG13-o0lynRJXMv",
+			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
+			"color": "#76428a",
+			"x": 41,
+			"type": 0,
+			"orientation": 1,
+			"width": 1,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"_name": "Jugendstil Seat",
+			"properties": {},
+			"scale": 1,
+			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_6496cf7f-9054-4eee-bebd-6e5cc185343d",
+			"height": 1,
+			"y": 50
+		},
+		{
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"properties": {},
+			"type": 0,
+			"offsetY": 0,
+			"offsetX": 0,
+			"y": 49,
+			"orientation": 0,
+			"width": 1,
+			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
+			"color": "#502858",
+			"x": 44,
+			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_f72cd3fb-7f7b-46c9-8834-a7c3189ef8c6",
+			"scale": 1,
+			"height": 1,
+			"_name": "Jugendstil Seat",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/z-a9mco4cZdK1fLTFyOle"
+		},
+		{
+			"scale": 1,
+			"offsetX": 0,
+			"_name": "Jugendstil Seat",
+			"y": 49,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/z-a9mco4cZdK1fLTFyOle",
+			"properties": {},
+			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
+			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_90f5f1cd-ec0b-4ac0-b359-b1a83bd3434a",
+			"type": 0,
+			"x": 43,
+			"offsetY": 0,
+			"orientation": 0,
+			"color": "#502858",
+			"height": 1,
+			"width": 1,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			]
+		},
+		{
+			"properties": {},
+			"type": 0,
+			"offsetY": 0,
+			"x": 45,
+			"height": 1,
+			"scale": 1,
+			"offsetX": 0,
+			"_name": "Jugendstil Seat",
+			"y": 50,
+			"orientation": 1,
+			"templateId": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS",
+			"width": 1,
+			"id": "JugendstilSeat - arHioPyE4ep1Lg5egoDoS_833dcb72-2005-44e6-9e8c-e2317ef5bc20",
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"antique"
+			],
+			"color": "#cbdbfc",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/QSqG59DjlC7-VwWmtvjlA"
+		},
+		{
+			"height": 2,
+			"orientation": 0,
+			"templateId": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXy_ZB",
+			"id": "Potted Plant (Monstera) - eEQopzUv6tABVZZsXyZB_1e2f18fc-e09a-4b06-96ae-617427a90950",
+			"x": 38,
+			"color": "#cbdbfc",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FOBZYpwVWcXkks2aj?alt=media&token=0ddb3512-f76d-4905-a62e-35c5014b98bf",
+			"properties": {},
+			"type": 0,
+			"_name": "Potted Plant (Monstera)",
+			"y": 50,
+			"width": 1,
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"scale": 1
+		},
+		{
+			"color": "#df7126",
+			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM",
+			"properties": {},
+			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_1cda0f34-bab3-4b63-a6fa-ac2f540d9bc6",
+			"width": 1,
+			"orientation": 0,
+			"scale": 1,
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"x": 46,
+			"height": 2,
+			"_name": "Potted Plant (Spikey)",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
+			"type": 0,
+			"y": 50
+		},
+		{
+			"properties": {},
+			"height": 2,
+			"width": 1,
+			"templateId": "Potted Plant (Spikey) - Txt3yDFD8NtkI-J_ZbdWM",
+			"type": 0,
+			"x": 46,
+			"color": "#df7126",
+			"_tags": [
+				"plant",
+				"decoration",
+				"decoration/plant",
+				"decoration/plant/potted",
+				"flair",
+				"office decor"
+			],
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FGb1j09WoypxoA4UP?alt=media&token=107ec86e-6d96-41cb-98c2-721fbde0fbd3",
+			"id": "Potted Plant (Spikey) - Txt3yDFD8NtkI-JZbdWM_0bfa28fc-04a9-45df-b444-e63502c90567",
+			"orientation": 0,
+			"y": 42,
+			"scale": 1,
+			"_name": "Potted Plant (Spikey)"
+		},
+		{
+			"color": "#cbdbfc",
+			"scale": 1,
+			"width": 1,
+			"id": "Bouquet - WloytVaTW1GhAG7hW3xQi_d3262de2-8b2d-4997-8c74-974854e644a3",
+			"_tags": [
+				"decoration",
+				"decoration/tabletop",
+				"valentine's day",
+				"holiday",
+				"plant",
+				"plant/other",
+				"plant/flower",
+				"roses",
+				"celebration",
+				"flair",
+				"office decor"
+			],
+			"y": 48,
+			"orientation": 0,
+			"height": 2,
+			"type": 0,
+			"_name": "Bouquet",
+			"properties": {},
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F3EqOx0QasgvJ33qF?alt=media&token=3c3fbcc4-3887-45cd-9204-1272523c3e69",
+			"templateId": "Bouquet - WloytVaTW1GhAG7hW3xQi",
+			"x": 45
+		},
+		{
+			"id": "Bouquet - WloytVaTW1GhAG7hW3xQi_e108ef11-befa-445f-a108-a5ba915ae9a9",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F3EqOx0QasgvJ33qF?alt=media&token=3c3fbcc4-3887-45cd-9204-1272523c3e69",
+			"y": 35,
 			"height": 2,
 			"properties": {},
-			"templateId": "BonsaiTree - 2Y4_G6NC0HPGEut0V07eG",
-			"id": "BonsaiTree - 2Y4G6NC0HPGEut0V07eG_d5871b5b-6ff9-4197-8af0-0d5fe9bdf509",
-			"color": "#6abe30",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/qxzji_kPxlmcAvt9QEaaF",
-			"y": 34,
+			"_name": "Bouquet",
+			"offsetY": 0,
+			"offsetX": 0,
+			"x": 5,
+			"type": 0,
 			"width": 1,
+			"scale": 1,
+			"orientation": 0,
+			"color": "#cbdbfc",
+			"_tags": [
+				"decoration",
+				"decoration/tabletop",
+				"valentine's day",
+				"holiday",
+				"plant",
+				"plant/other",
+				"plant/flower",
+				"roses",
+				"celebration",
+				"flair",
+				"office decor"
+			],
+			"templateId": "Bouquet - WloytVaTW1GhAG7hW3xQi"
+		},
+		{
+			"height": 2,
+			"templateId": "BonsaiTree - 2Y4_G6NC0HPGEut0V07eG",
+			"type": 0,
+			"x": 42,
+			"y": 34,
+			"id": "BonsaiTree - 2Y4G6NC0HPGEut0V07eG_d5871b5b-6ff9-4197-8af0-0d5fe9bdf509",
+			"orientation": 0,
 			"_tags": [
 				"plant",
 				"plant/potted",
 				"zen"
 			],
-			"type": 0,
-			"scale": 1,
-			"orientation": 0,
-			"x": 42,
-			"_name": "Bonsai Tree"
-		},
-		{
-			"orientation": 0,
-			"properties": {},
-			"height": 2,
 			"width": 1,
 			"scale": 1,
-			"type": 0,
-			"templateId": "Cat-Tail Willow - NtiOFA59GSwNDNKgRH4cr",
-			"x": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F5c40NqAJ5vhIaf91?alt=media&token=92a79471-1242-4261-a796-71dd02b9a496",
-			"_tags": [
-				"lunar new year",
-				"decoration",
-				"plant",
-				"plant",
-				"plant/potted",
-				"holiday",
-				"celebration"
-			],
-			"color": "a",
-			"y": 42,
-			"id": "Cat-Tail Willow - NtiOFA59GSwNDNKgRH4cr_1379a2da-9cac-4349-b835-3310a1bf5f29",
-			"_name": "Cat-Tail Willow"
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/qxzji_kPxlmcAvt9QEaaF",
+			"_name": "Bonsai Tree",
+			"color": "#6abe30",
+			"properties": {}
 		},
 		{
 			"height": 2,
+			"properties": {},
+			"id": "Cat-Tail Willow - NtiOFA59GSwNDNKgRH4cr_1379a2da-9cac-4349-b835-3310a1bf5f29",
+			"_name": "Cat-Tail Willow",
+			"templateId": "Cat-Tail Willow - NtiOFA59GSwNDNKgRH4cr",
 			"orientation": 0,
-			"x": 4,
+			"scale": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F5c40NqAJ5vhIaf91?alt=media&token=92a79471-1242-4261-a796-71dd02b9a496",
+			"type": 0,
+			"width": 1,
 			"_tags": [
 				"lunar new year",
 				"decoration",
@@ -2045,62 +2064,63 @@
 				"holiday",
 				"celebration"
 			],
+			"y": 42,
 			"color": "a",
-			"_name": "Cat-Tail Willow",
+			"x": 1
+		},
+		{
 			"id": "Cat-Tail Willow - NtiOFA59GSwNDNKgRH4cr_7635d878-3745-4c39-9c15-f17c4a2a6166",
-			"templateId": "Cat-Tail Willow - NtiOFA59GSwNDNKgRH4cr",
+			"x": 4,
+			"height": 2,
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F5c40NqAJ5vhIaf91?alt=media&token=92a79471-1242-4261-a796-71dd02b9a496",
-			"y": 15,
+			"color": "a",
 			"scale": 1,
 			"properties": {},
 			"type": 0,
-			"width": 1
+			"templateId": "Cat-Tail Willow - NtiOFA59GSwNDNKgRH4cr",
+			"orientation": 0,
+			"y": 15,
+			"_name": "Cat-Tail Willow",
+			"width": 1,
+			"_tags": [
+				"lunar new year",
+				"decoration",
+				"plant",
+				"plant",
+				"plant/potted",
+				"holiday",
+				"celebration"
+			]
 		},
 		{
-			"properties": {},
-			"orientation": 0,
 			"type": 0,
-			"templateId": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN",
 			"height": 4,
-			"color": "#c4824e",
+			"orientation": 0,
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FAH2q61KdOTkCqvde?alt=media&token=f12cd5ef-e3d0-43da-9811-01e602b48023",
+			"templateId": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN",
+			"_name": "Chippendale Table (3x3)",
+			"y": 46,
 			"id": "ChippendaleTable3x3 - 1qAEsfMdvsbuzKKlyPAQN_699b7145-7e00-4078-a739-9abe2c22aaf4",
 			"scale": 1,
 			"width": 5,
-			"_name": "Chippendale Table (3x3)",
-			"x": 3,
 			"_tags": [
 				"furniture",
 				"furniture/table",
 				"antique"
 			],
-			"y": 46
+			"color": "#c4824e",
+			"properties": {},
+			"x": 3
 		},
 		{
+			"_name": "Chair (Antique)",
+			"scale": 1,
+			"type": 0,
+			"y": 44,
+			"properties": {},
 			"width": 1,
 			"color": "#76428a",
-			"orientation": 0,
-			"type": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FoH2hSXL4qrbNq5yD?alt=media&token=add089e0-484b-4479-8138-d0668e8d45df",
-			"height": 2,
-			"properties": {},
-			"scale": 1,
-			"y": 44,
-			"_name": "Chair (Antique)",
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"victorian",
-				"antique",
-				"vintage"
-			],
-			"x": 4,
 			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_55c01f9b-9464-45fa-91ea-cce2a1b2a28a",
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB"
-		},
-		{
-			"type": 0,
 			"_tags": [
 				"furniture",
 				"furniture/seating",
@@ -2109,138 +2129,14 @@
 				"antique",
 				"vintage"
 			],
-			"color": "#76428a",
-			"width": 1,
-			"x": 5,
-			"scale": 1,
-			"y": 44,
-			"_name": "Chair (Antique)",
-			"properties": {},
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FoH2hSXL4qrbNq5yD?alt=media&token=add089e0-484b-4479-8138-d0668e8d45df",
 			"height": 2,
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_5eb86766-9f7a-4f60-bd97-ffe14ba46ab1",
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"orientation": 0
-		},
-		{
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"y": 44,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"victorian",
-				"antique",
-				"vintage"
-			],
-			"orientation": 0,
-			"color": "#76428a",
-			"type": 0,
-			"_name": "Chair (Antique)",
-			"scale": 1,
-			"width": 1,
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_6f9cd374-b1ac-4e24-8794-7fd048e14ca3",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FoH2hSXL4qrbNq5yD?alt=media&token=add089e0-484b-4479-8138-d0668e8d45df",
-			"properties": {},
-			"height": 2,
-			"x": 6
-		},
-		{
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"type": 0,
-			"orientation": 3,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"victorian",
-				"antique",
-				"vintage"
-			],
-			"color": "#76428a",
-			"x": 3,
-			"properties": {},
-			"width": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F2ginLTX3hS69HiPe?alt=media&token=7e68649b-4009-4656-9ab2-bdb923bed3b9",
-			"y": 46,
-			"_name": "Chair (Antique)",
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_320c2900-3433-446f-b877-aa2ea312a0ca",
-			"height": 1,
-			"scale": 1
-		},
-		{
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"width": 1,
-			"color": "#76428a",
-			"height": 1,
-			"type": 0,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F2ginLTX3hS69HiPe?alt=media&token=7e68649b-4009-4656-9ab2-bdb923bed3b9",
-			"y": 47,
-			"_name": "Chair (Antique)",
-			"scale": 1,
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_abc55c7b-10b1-4974-b376-12822c739bd3",
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"victorian",
-				"antique",
-				"vintage"
-			],
-			"x": 3,
-			"properties": {},
-			"orientation": 3
-		},
-		{
-			"orientation": 3,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F2ginLTX3hS69HiPe?alt=media&token=7e68649b-4009-4656-9ab2-bdb923bed3b9",
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_f82663cc-9de1-4333-8634-7ea797bec675",
-			"color": "#76428a",
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"victorian",
-				"antique",
-				"vintage"
-			],
-			"scale": 1,
-			"_name": "Chair (Antique)",
-			"y": 48,
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"type": 0,
-			"height": 1,
-			"width": 1,
-			"x": 3,
-			"properties": {}
-		},
-		{
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_d6b6fe11-48c1-4424-9e32-b0592d0b73f9",
-			"height": 1,
-			"color": "#76428a",
-			"properties": {},
 			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
 			"x": 4,
-			"width": 1,
-			"scale": 1,
-			"_name": "Chair (Antique)",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FJxQvCM1Jy4o4xtvR?alt=media&token=d4f0face-754e-4ac0-91b0-a6a86a7e39ed",
-			"type": 0,
-			"y": 49,
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"victorian",
-				"antique",
-				"vintage"
-			],
-			"orientation": 2
+			"orientation": 0,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FoH2hSXL4qrbNq5yD?alt=media&token=add089e0-484b-4479-8138-d0668e8d45df"
 		},
 		{
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_8bc149bb-dd18-4d6d-90f1-7f20ceaf0d35",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FJxQvCM1Jy4o4xtvR?alt=media&token=d4f0face-754e-4ac0-91b0-a6a86a7e39ed",
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"scale": 1,
 			"_tags": [
 				"furniture",
 				"furniture/seating",
@@ -2249,24 +2145,20 @@
 				"antique",
 				"vintage"
 			],
-			"x": 5,
-			"orientation": 2,
-			"properties": {},
-			"scale": 1,
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
 			"_name": "Chair (Antique)",
-			"color": "#76428a",
 			"width": 1,
-			"y": 49,
-			"height": 1,
+			"height": 2,
+			"properties": {},
+			"color": "#76428a",
+			"y": 44,
+			"x": 5,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FoH2hSXL4qrbNq5yD?alt=media&token=add089e0-484b-4479-8138-d0668e8d45df",
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_5eb86766-9f7a-4f60-bd97-ffe14ba46ab1",
+			"orientation": 0,
 			"type": 0
 		},
 		{
-			"_name": "Chair (Antique)",
-			"type": 0,
-			"scale": 1,
-			"properties": {},
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_b2c0ab83-cf5b-4565-8454-6cee0ab4f6d8",
-			"height": 1,
 			"_tags": [
 				"furniture",
 				"furniture/seating",
@@ -2275,49 +2167,31 @@
 				"antique",
 				"vintage"
 			],
-			"width": 1,
-			"y": 49,
-			"orientation": 2,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FJxQvCM1Jy4o4xtvR?alt=media&token=d4f0face-754e-4ac0-91b0-a6a86a7e39ed",
+			"properties": {},
 			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
 			"x": 6,
-			"color": "#76428a"
-		},
-		{
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_33419370-c1ce-4276-8f81-d7db940ae446",
-			"type": 0,
-			"x": 7,
-			"orientation": 1,
 			"width": 1,
-			"y": 46,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fhjt284o2CsHTIP7B?alt=media&token=45c58f78-86f8-4528-845c-3ce10f8be5b5",
-			"properties": {},
-			"_name": "Chair (Antique)",
-			"scale": 1,
-			"height": 1,
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"_tags": [
-				"furniture",
-				"furniture/seating",
-				"furniture/seating/chair",
-				"victorian",
-				"antique",
-				"vintage"
-			],
-			"color": "#76428a"
-		},
-		{
-			"y": 47,
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"orientation": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fhjt284o2CsHTIP7B?alt=media&token=45c58f78-86f8-4528-845c-3ce10f8be5b5",
-			"height": 1,
-			"scale": 1,
-			"_name": "Chair (Antique)",
+			"orientation": 0,
+			"height": 2,
+			"y": 44,
 			"color": "#76428a",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FoH2hSXL4qrbNq5yD?alt=media&token=add089e0-484b-4479-8138-d0668e8d45df",
+			"_name": "Chair (Antique)",
 			"type": 0,
+			"scale": 1,
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_6f9cd374-b1ac-4e24-8794-7fd048e14ca3"
+		},
+		{
 			"width": 1,
-			"x": 7,
+			"orientation": 3,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F2ginLTX3hS69HiPe?alt=media&token=7e68649b-4009-4656-9ab2-bdb923bed3b9",
+			"x": 3,
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_320c2900-3433-446f-b877-aa2ea312a0ca",
+			"_name": "Chair (Antique)",
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"scale": 1,
+			"properties": {},
+			"color": "#76428a",
 			"_tags": [
 				"furniture",
 				"furniture/seating",
@@ -2326,23 +2200,112 @@
 				"antique",
 				"vintage"
 			],
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_dc698398-c794-40c1-b261-616c1595db8c",
+			"type": 0,
+			"y": 46,
+			"height": 1
+		},
+		{
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_abc55c7b-10b1-4974-b376-12822c739bd3",
+			"x": 3,
+			"orientation": 3,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F2ginLTX3hS69HiPe?alt=media&token=7e68649b-4009-4656-9ab2-bdb923bed3b9",
+			"width": 1,
+			"color": "#76428a",
+			"y": 47,
+			"_name": "Chair (Antique)",
+			"height": 1,
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"scale": 1,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"victorian",
+				"antique",
+				"vintage"
+			],
+			"properties": {},
+			"type": 0
+		},
+		{
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"victorian",
+				"antique",
+				"vintage"
+			],
+			"x": 3,
+			"orientation": 3,
+			"type": 0,
+			"properties": {},
+			"height": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F2ginLTX3hS69HiPe?alt=media&token=7e68649b-4009-4656-9ab2-bdb923bed3b9",
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_f82663cc-9de1-4333-8634-7ea797bec675",
+			"color": "#76428a",
+			"scale": 1,
+			"_name": "Chair (Antique)",
+			"y": 48,
+			"width": 1
+		},
+		{
+			"color": "#76428a",
+			"x": 4,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FJxQvCM1Jy4o4xtvR?alt=media&token=d4f0face-754e-4ac0-91b0-a6a86a7e39ed",
+			"height": 1,
+			"y": 49,
+			"_name": "Chair (Antique)",
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"victorian",
+				"antique",
+				"vintage"
+			],
+			"width": 1,
+			"scale": 1,
+			"type": 0,
+			"properties": {},
+			"orientation": 2,
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_d6b6fe11-48c1-4424-9e32-b0592d0b73f9"
+		},
+		{
+			"scale": 1,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"victorian",
+				"antique",
+				"vintage"
+			],
+			"color": "#76428a",
+			"_name": "Chair (Antique)",
+			"y": 49,
+			"type": 0,
+			"width": 1,
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"x": 5,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FJxQvCM1Jy4o4xtvR?alt=media&token=d4f0face-754e-4ac0-91b0-a6a86a7e39ed",
+			"height": 1,
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_8bc149bb-dd18-4d6d-90f1-7f20ceaf0d35",
+			"orientation": 2,
 			"properties": {}
 		},
 		{
-			"properties": {},
-			"_name": "Chair (Antique)",
-			"orientation": 1,
-			"type": 0,
-			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
-			"x": 7,
-			"height": 1,
-			"scale": 1,
-			"color": "#76428a",
 			"width": 1,
-			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_c524ea64-0421-4059-9182-62fa66699b8d",
-			"y": 48,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fhjt284o2CsHTIP7B?alt=media&token=45c58f78-86f8-4528-845c-3ce10f8be5b5",
+			"y": 49,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FJxQvCM1Jy4o4xtvR?alt=media&token=d4f0face-754e-4ac0-91b0-a6a86a7e39ed",
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_b2c0ab83-cf5b-4565-8454-6cee0ab4f6d8",
+			"properties": {},
+			"height": 1,
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"color": "#76428a",
+			"orientation": 2,
 			"_tags": [
 				"furniture",
 				"furniture/seating",
@@ -2350,266 +2313,345 @@
 				"victorian",
 				"antique",
 				"vintage"
-			]
+			],
+			"_name": "Chair (Antique)",
+			"x": 6,
+			"type": 0,
+			"scale": 1
 		},
 		{
-			"id": "0Ouky4OVH9C3ll-Ezq5Fm_b63d4c21-6e5e-48b1-bbe8-f074e54efdf0",
-			"templateId": "0Ouky4OVH9C3ll-Ezq5Fm",
-			"offsetY": 0,
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_33419370-c1ce-4276-8f81-d7db940ae446",
+			"_name": "Chair (Antique)",
+			"x": 7,
+			"properties": {},
+			"scale": 1,
+			"height": 1,
+			"color": "#76428a",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fhjt284o2CsHTIP7B?alt=media&token=45c58f78-86f8-4528-845c-3ce10f8be5b5",
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"width": 1,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"victorian",
+				"antique",
+				"vintage"
+			],
+			"type": 0,
+			"y": 46,
+			"orientation": 1
+		},
+		{
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"victorian",
+				"antique",
+				"vintage"
+			],
+			"color": "#76428a",
+			"width": 1,
 			"type": 0,
 			"scale": 1,
+			"y": 47,
+			"properties": {},
+			"height": 1,
+			"_name": "Chair (Antique)",
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"orientation": 1,
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_dc698398-c794-40c1-b261-616c1595db8c",
+			"x": 7,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fhjt284o2CsHTIP7B?alt=media&token=45c58f78-86f8-4528-845c-3ce10f8be5b5"
+		},
+		{
+			"type": 0,
+			"_name": "Chair (Antique)",
+			"y": 48,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fhjt284o2CsHTIP7B?alt=media&token=45c58f78-86f8-4528-845c-3ce10f8be5b5",
+			"properties": {},
+			"orientation": 1,
+			"scale": 1,
+			"_tags": [
+				"furniture",
+				"furniture/seating",
+				"furniture/seating/chair",
+				"victorian",
+				"antique",
+				"vintage"
+			],
+			"id": "FancyChair - qJ1q4Mgo4j6GID9SjwwB_c524ea64-0421-4059-9182-62fa66699b8d",
+			"width": 1,
+			"height": 1,
+			"templateId": "FancyChair - qJ1q4Mgo4j6_GID9SjwwB",
+			"x": 7,
+			"color": "#76428a"
+		},
+		{
+			"scale": 1,
+			"type": 0,
+			"offsetX": 0,
+			"templateId": "0Ouky4OVH9C3ll-Ezq5Fm",
+			"orientation": 0,
+			"y": 55,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/TjNQOWErsGxDK8Cfkgl26S",
+			"id": "0Ouky4OVH9C3ll-Ezq5Fm_b63d4c21-6e5e-48b1-bbe8-f074e54efdf0",
+			"width": 4,
 			"color": "default",
+			"offsetY": 0,
 			"height": 2,
 			"_name": "help desk",
-			"orientation": 0,
 			"_tags": [
 				"Custom"
 			],
-			"x": 15,
-			"offsetX": 0,
-			"width": 4,
 			"properties": {},
-			"y": 55,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/TjNQOWErsGxDK8Cfkgl26S"
+			"x": 15
 		},
 		{
+			"y": 47,
+			"properties": {},
+			"templateId": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc",
 			"color": "#8f563b",
+			"height": 2,
+			"scale": 1,
+			"type": 0,
+			"width": 1,
+			"_name": "Small Round Table (Antique)",
 			"id": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc_41475942-583c-4eb3-86d4-6658e1f2982a",
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9oFl7U8kwShJhUrc?alt=media&token=16967d7c-05fe-4969-9eea-4b7a84c89993",
-			"templateId": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc",
-			"width": 1,
-			"properties": {},
 			"x": 29,
-			"y": 47,
 			"orientation": 0,
-			"type": 0,
 			"_tags": [
 				"social",
 				"office",
 				"furniture",
 				"furniture/table"
-			],
-			"scale": 1,
-			"_name": "Small Round Table (Antique)",
-			"height": 2
+			]
 		},
 		{
+			"orientation": 0,
+			"height": 1,
 			"width": 1,
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FqC7rpN69v6lMSKJk?alt=media&token=79c2360c-b950-46f4-9875-45168c9f0fe9",
-			"previewMessage": "Preface",
-			"x": 29,
-			"templateId": "BookOpen - v_MkM7dIRcTbKR9i18_Sd",
-			"offsetY": 0,
+			"_name": "Book (Open)",
 			"_tags": [
 				"decoration",
 				"decoration/other",
 				"flair",
 				"book"
 			],
-			"y": 47,
-			"type": 1,
-			"orientation": 0,
+			"previewMessage": "Preface",
 			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6WLNT1awJtcoZE1g?alt=media&token=60a86423-3d48-440b-be2d-1cdc0bca6e9e",
+			"scale": 1,
+			"y": 47,
+			"offsetY": 0,
 			"id": "BookOpen - vMkM7dIRcTbKR9i18_Sd_0aec27c4-20dd-4187-bff6-37f867b925a7",
 			"color": "a",
-			"scale": 1,
-			"_name": "Book (Open)",
 			"offsetX": 0,
+			"x": 29,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FqC7rpN69v6lMSKJk?alt=media&token=79c2360c-b950-46f4-9875-45168c9f0fe9",
+			"type": 1,
 			"properties": {
 				"url": "https://drive.google.com/file/d/1bsq1BajjquGlrnzhpQB0dRjfhV03iNRb/preview"
 			},
-			"height": 1
+			"templateId": "BookOpen - v_MkM7dIRcTbKR9i18_Sd"
 		},
 		{
-			"type": 0,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/qFcwijkzJoiM8CoTXimeW",
-			"color": "#323c39",
-			"id": "BabyGrandPiano - PxyxBCjn1NXbpuSms6jQ_eba572f4-f3c5-4431-a904-3af127606003",
-			"offsetX": 0,
-			"properties": {},
-			"_name": "Baby Grand Piano",
-			"x": 2,
-			"height": 2,
+			"width": 2,
 			"templateId": "BabyGrandPiano - PxyxB_Cjn1NXbpuSms6jQ",
+			"y": 31,
+			"orientation": 0,
+			"x": 2,
+			"color": "#323c39",
+			"type": 0,
+			"scale": 1,
+			"properties": {},
+			"height": 2,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/qFcwijkzJoiM8CoTXimeW",
+			"offsetY": 0,
+			"offsetX": 0,
+			"id": "BabyGrandPiano - PxyxBCjn1NXbpuSms6jQ_eba572f4-f3c5-4431-a904-3af127606003",
+			"_name": "Baby Grand Piano",
 			"_tags": [
 				"appliance",
 				"appliance/entertainment",
 				"appliance/entertainment/music",
 				"decoration",
 				"decoration/other"
-			],
-			"y": 31,
-			"orientation": 0,
-			"width": 2,
-			"offsetY": 0,
-			"scale": 1
+			]
 		},
 		{
-			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_48cbaa28-d5f1-477c-8af8-f9412d4c054e",
-			"_name": "Fern",
-			"y": 31,
-			"scale": 1,
+			"width": 1,
+			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
+			"height": 1,
 			"x": 1,
 			"color": "#6abe30",
 			"orientation": 0,
-			"type": 0,
 			"properties": {},
+			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_48cbaa28-d5f1-477c-8af8-f9412d4c054e",
+			"scale": 1,
+			"y": 31,
+			"_name": "Fern",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"type": 0,
+			"_tags": [
+				"plant",
+				"plant/garden",
+				"outside"
+			]
+		},
+		{
+			"properties": {},
+			"y": 31,
+			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_410b24da-f998-4363-9baa-84cb51c20631",
 			"_tags": [
 				"plant",
 				"plant/garden",
 				"outside"
 			],
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
-			"height": 1,
 			"width": 1,
+			"_name": "Fern",
+			"height": 1,
+			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
+			"scale": 1,
+			"color": "#6abe30",
+			"orientation": 0,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"type": 0,
+			"x": 4
+		},
+		{
+			"properties": {},
+			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_75dde194-0edb-4359-a17c-983fa12db26c",
+			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
+			"type": 0,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"_name": "Fern",
+			"orientation": 0,
+			"y": 40,
+			"scale": 1,
+			"_tags": [
+				"plant",
+				"plant/garden",
+				"outside"
+			],
+			"x": 9,
+			"color": "#6abe30",
+			"height": 1,
+			"width": 1
+		},
+		{
+			"height": 1,
+			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
+			"x": 9,
+			"color": "#6abe30",
+			"_tags": [
+				"plant",
+				"plant/garden",
+				"outside"
+			],
+			"type": 0,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_b76f2bb7-4409-4e83-ba0d-c74e2ca95c9a",
+			"_name": "Fern",
+			"orientation": 0,
+			"width": 1,
+			"scale": 1,
+			"y": 51,
+			"properties": {}
+		},
+		{
+			"orientation": 0,
+			"color": "#6abe30",
+			"type": 0,
+			"y": 42,
+			"width": 1,
+			"properties": {},
+			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_c0783a69-9209-4ca4-9691-302bdf1f226b",
+			"scale": 1,
+			"x": 45,
+			"height": 1,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"_tags": [
+				"plant",
+				"plant/garden",
+				"outside"
+			],
+			"_name": "Fern",
 			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI"
 		},
 		{
 			"type": 0,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
-			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
-			"color": "#6abe30",
-			"properties": {},
-			"_name": "Fern",
-			"width": 1,
-			"_tags": [
-				"plant",
-				"plant/garden",
-				"outside"
-			],
-			"height": 1,
-			"y": 31,
-			"orientation": 0,
-			"x": 4,
-			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_410b24da-f998-4363-9baa-84cb51c20631",
-			"scale": 1
-		},
-		{
-			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
-			"width": 1,
-			"orientation": 0,
-			"properties": {},
-			"_tags": [
-				"plant",
-				"plant/garden",
-				"outside"
-			],
-			"_name": "Fern",
-			"y": 40,
-			"color": "#6abe30",
-			"height": 1,
-			"x": 9,
-			"scale": 1,
-			"type": 0,
-			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_75dde194-0edb-4359-a17c-983fa12db26c",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ"
-		},
-		{
-			"properties": {},
-			"_tags": [
-				"plant",
-				"plant/garden",
-				"outside"
-			],
-			"_name": "Fern",
-			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
-			"orientation": 0,
-			"color": "#6abe30",
-			"type": 0,
-			"y": 51,
-			"height": 1,
-			"width": 1,
-			"scale": 1,
-			"x": 9,
-			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_b76f2bb7-4409-4e83-ba0d-c74e2ca95c9a",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ"
-		},
-		{
-			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
 			"x": 45,
-			"orientation": 0,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
-			"type": 0,
-			"_name": "Fern",
 			"_tags": [
 				"plant",
 				"plant/garden",
 				"outside"
 			],
-			"color": "#6abe30",
-			"properties": {},
-			"scale": 1,
-			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_c0783a69-9209-4ca4-9691-302bdf1f226b",
-			"width": 1,
-			"y": 42,
-			"height": 1
-		},
-		{
-			"scale": 1,
-			"_tags": [
-				"plant",
-				"plant/garden",
-				"outside"
-			],
-			"type": 0,
-			"properties": {},
-			"color": "#6abe30",
-			"y": 43,
-			"_name": "Fern",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
 			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
-			"width": 1,
+			"color": "#6abe30",
 			"height": 1,
-			"x": 45,
+			"width": 1,
 			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_3161878a-20a0-4c06-b9ca-cf66447a0ef0",
+			"_name": "Fern",
+			"properties": {},
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"scale": 1,
+			"y": 43,
 			"orientation": 0
 		},
 		{
-			"width": 1,
-			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_a40d9dc6-968e-4d49-acba-aadd22ca2d18",
-			"_tags": [
-				"plant",
-				"plant/garden",
-				"outside"
-			],
-			"orientation": 0,
-			"scale": 1,
-			"y": 51,
 			"type": 0,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
-			"x": 45,
-			"properties": {},
+			"orientation": 0,
 			"_name": "Fern",
-			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
-			"color": "#6abe30",
-			"height": 1
-		},
-		{
 			"height": 1,
-			"type": 0,
+			"x": 45,
 			"_tags": [
 				"plant",
 				"plant/garden",
 				"outside"
 			],
-			"properties": {},
-			"y": 40,
-			"_name": "Fern",
-			"orientation": 0,
-			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
 			"scale": 1,
-			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_9b9017f0-e1e9-49dc-b292-6f4d5500e52e",
 			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_a40d9dc6-968e-4d49-acba-aadd22ca2d18",
 			"color": "#6abe30",
-			"x": 45,
-			"width": 1
+			"y": 51,
+			"width": 1,
+			"properties": {},
+			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI"
 		},
 		{
+			"properties": {},
+			"_name": "Fern",
+			"x": 45,
+			"id": "Fern - cZYkAMDRMpQ0bcui0KJmI_9b9017f0-e1e9-49dc-b292-6f4d5500e52e",
+			"templateId": "Fern - cZYkAMDRMpQ0bcui0KJmI",
 			"orientation": 0,
 			"width": 1,
+			"type": 0,
+			"y": 40,
+			"color": "#6abe30",
+			"height": 1,
+			"_tags": [
+				"plant",
+				"plant/garden",
+				"outside"
+			],
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/CSHUOJxC_xQAyEXhynxLJ",
+			"scale": 1
+		},
+		{
+			"properties": {},
+			"color": "a",
+			"x": 41,
 			"type": 0,
 			"id": "Lucky Bamboo - TcqAoZhvnNW1cXcGPbnhQ_b1bb3633-f122-4fd6-975f-4db59623a827",
+			"width": 1,
+			"scale": 1,
+			"orientation": 0,
+			"_name": "Lucky Bamboo",
 			"y": 42,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FD93foZRNcBjoloua?alt=media&token=a620ee84-d93f-468a-8fff-852bf37971c6",
 			"height": 2,
 			"_tags": [
 				"holiday",
@@ -2619,39 +2661,34 @@
 				"lunar new year",
 				"celebration"
 			],
-			"properties": {},
-			"templateId": "Lucky Bamboo - TcqAoZhvnNW1cXcGPbnhQ",
-			"scale": 1,
-			"color": "a",
-			"x": 41,
-			"_name": "Lucky Bamboo",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FD93foZRNcBjoloua?alt=media&token=a620ee84-d93f-468a-8fff-852bf37971c6"
+			"templateId": "Lucky Bamboo - TcqAoZhvnNW1cXcGPbnhQ"
 		},
 		{
-			"height": 2,
-			"scale": 1,
-			"color": "#8f563b",
-			"type": 0,
-			"y": 40,
-			"x": 1,
-			"id": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc_791e766c-b8c2-40cd-a868-78e8496b9657",
-			"properties": {},
-			"templateId": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc",
 			"_tags": [
 				"social",
 				"office",
 				"furniture",
 				"furniture/table"
 			],
-			"orientation": 0,
-			"width": 1,
+			"scale": 1,
+			"x": 1,
+			"color": "#8f563b",
+			"type": 0,
+			"properties": {},
+			"id": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc_791e766c-b8c2-40cd-a868-78e8496b9657",
 			"_name": "Small Round Table (Antique)",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9oFl7U8kwShJhUrc?alt=media&token=16967d7c-05fe-4969-9eea-4b7a84c89993"
+			"width": 1,
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9oFl7U8kwShJhUrc?alt=media&token=16967d7c-05fe-4969-9eea-4b7a84c89993",
+			"orientation": 0,
+			"templateId": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc",
+			"height": 2,
+			"y": 40
 		},
 		{
+			"properties": {},
+			"color": "#f0b829",
 			"_name": "Potted Plant (Bird of Paradise)",
-			"width": 1,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/HnAO7-v2n__5zd7qmP5nz",
+			"scale": 1,
 			"_tags": [
 				"plant",
 				"decoration",
@@ -2659,45 +2696,46 @@
 				"decoration/plant/potted",
 				"beach"
 			],
-			"scale": 1,
 			"orientation": 0,
-			"type": 0,
-			"color": "#f0b829",
-			"templateId": "PottedPlantBirdofParadise - _D4xFpTfkL0hJO9x3MzpN",
 			"height": 2,
-			"x": 1,
+			"templateId": "PottedPlantBirdofParadise - _D4xFpTfkL0hJO9x3MzpN",
+			"width": 1,
+			"type": 0,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/HnAO7-v2n__5zd7qmP5nz",
 			"y": 39,
 			"id": "PottedPlantBirdofParadise - D4xFpTfkL0hJO9x3MzpN_3fb344df-e9f0-45ed-a6f1-765ff5c7d8f0",
-			"properties": {}
+			"x": 1
 		},
 		{
+			"properties": {},
+			"type": 0,
+			"y": 40,
 			"scale": 1,
-			"x": 46,
+			"templateId": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc",
+			"id": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc_b673800f-89e4-4f6f-bd1b-d562164e83fa",
 			"height": 2,
 			"width": 1,
-			"id": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc_b673800f-89e4-4f6f-bd1b-d562164e83fa",
+			"color": "#8f563b",
+			"_name": "Small Round Table (Antique)",
+			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9oFl7U8kwShJhUrc?alt=media&token=16967d7c-05fe-4969-9eea-4b7a84c89993",
+			"x": 46,
 			"_tags": [
 				"social",
 				"office",
 				"furniture",
 				"furniture/table"
 			],
-			"color": "#8f563b",
-			"type": 0,
-			"orientation": 0,
-			"y": 40,
-			"templateId": "Small Table (Fancy) - YIi6Otg6DuKbn7m2gQopc",
-			"properties": {},
-			"_name": "Small Round Table (Antique)",
-			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9oFl7U8kwShJhUrc?alt=media&token=16967d7c-05fe-4969-9eea-4b7a84c89993"
+			"orientation": 0
 		},
 		{
-			"color": "#f0b829",
-			"_name": "Potted Plant (Bird of Paradise)",
 			"type": 0,
-			"y": 39,
-			"height": 2,
+			"scale": 1,
+			"_name": "Potted Plant (Bird of Paradise)",
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/HnAO7-v2n__5zd7qmP5nz",
+			"x": 46,
 			"orientation": 0,
+			"templateId": "PottedPlantBirdofParadise - _D4xFpTfkL0hJO9x3MzpN",
+			"id": "PottedPlantBirdofParadise - D4xFpTfkL0hJO9x3MzpN_f1ac29b2-f574-4c6d-b46e-336a34667677",
 			"_tags": [
 				"plant",
 				"decoration",
@@ -2705,17 +2743,18 @@
 				"decoration/plant/potted",
 				"beach"
 			],
-			"scale": 1,
-			"width": 1,
-			"x": 46,
-			"id": "PottedPlantBirdofParadise - D4xFpTfkL0hJO9x3MzpN_f1ac29b2-f574-4c6d-b46e-336a34667677",
 			"properties": {},
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/HnAO7-v2n__5zd7qmP5nz",
-			"templateId": "PottedPlantBirdofParadise - _D4xFpTfkL0hJO9x3MzpN"
+			"height": 2,
+			"width": 1,
+			"color": "#f0b829",
+			"y": 39
 		},
 		{
-			"width": 1,
-			"offsetY": 0,
+			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
+			"y": 47,
+			"properties": {
+				"video": "https://youtu.be/Tv1Anrwf8z4"
+			},
 			"_tags": [
 				"social",
 				"office",
@@ -2724,129 +2763,76 @@
 				"wayfinding",
 				"presentation"
 			],
-			"scale": 1,
-			"y": 47,
-			"color": "a",
 			"x": 17,
-			"distThreshold": 3,
-			"previewMessage": "Gallery Preview",
-			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_4b724106-1e0f-4ede-aebd-1c026efaf26d",
-			"type": 3,
-			"_name": "Bulletin (Video)",
-			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
-			"height": 2,
-			"offsetX": 0,
 			"normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FizvOgTcmAe5BY4A2?alt=media&token=4e6badb8-5b17-4e48-8868-9be941efa59a",
-			"properties": {
-				"video": "https://youtu.be/Tv1Anrwf8z4"
-			},
-			"highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F6TOxzV06OuWpOIYT?alt=media&token=271a1c85-fdd9-4498-a57c-e466b597a86b",
-			"orientation": 0
-		},
-		{
-			"height": 2,
-			"previewMessage": "Visit visap.net",
-			"y": 22,
-			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/7dFWKRNUsoEB4IjHP2mz3a",
-			"_name": "",
-			"width": 3,
-			"scale": 1,
-			"color": "default",
-			"offsetY": 0,
-			"_tags": [
-				"Custom"
-			],
-			"properties": {
-				"url": "https://visap.net/"
-			},
-			"type": 1,
-			"id": "TnHGuerHBDO8bvyUvw7zh_4cdb96f8-b744-4044-b10c-40f7fa5f02d2",
 			"orientation": 0,
-			"distThreshold": "5",
-			"templateId": "TnHGuerHBDO8bvyUvw7zh",
-			"x": 40,
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/AQIizrLK0TR3dxc6wu29ta",
+			"width": 1,
+			"previewMessage": "Gallery Preview",
+			"height": 2,
+			"color": "a",
+			"templateId": "Bulletin (Video) - VBxAOZ_jzkW1Nc9rIwcwp",
+			"distThreshold": 3,
+			"offsetY": 0,
+			"id": "Bulletin (Video) - VBxAOZjzkW1Nc9rIwcwp_4b724106-1e0f-4ede-aebd-1c026efaf26d",
+			"scale": 1,
+			"_name": "Bulletin (Video)",
+			"type": 3,
 			"offsetX": 0
 		},
 		{
 			"orientation": 0,
-			"type": 0,
-			"height": 2,
-			"y": 45,
-			"width": 11,
-			"properties": {},
-			"scale": 1,
-			"color": "default",
-			"id": "c7FDksZiyeDtWhB54k5kT_4d6baef9-2a4b-45bd-bd77-74e00457e54b",
+			"distThreshold": "5",
+			"width": 3,
+			"offsetY": 0,
 			"offsetX": 0,
-			"x": 18,
-			"_name": "logo",
-			"templateId": "c7FDksZiyeDtWhB54k5kT",
-			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/QWTr1fbO83xi7Umpg0ZoB9",
+			"height": 2,
 			"_tags": [
 				"Custom"
 			],
-			"offsetY": 0
+			"y": 22,
+			"_name": "",
+			"color": "default",
+			"id": "TnHGuerHBDO8bvyUvw7zh_4cdb96f8-b744-4044-b10c-40f7fa5f02d2",
+			"x": 40,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/AQIizrLK0TR3dxc6wu29ta",
+			"previewMessage": "Visit visap.net",
+			"properties": {
+				"url": "https://visap.net/"
+			},
+			"type": 1,
+			"highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/7dFWKRNUsoEB4IjHP2mz3a",
+			"templateId": "TnHGuerHBDO8bvyUvw7zh",
+			"scale": 1
+		},
+		{
+			"orientation": 0,
+			"height": 2,
+			"_name": "logo",
+			"offsetY": 0,
+			"_tags": [
+				"Custom"
+			],
+			"x": 18,
+			"type": 0,
+			"color": "default",
+			"templateId": "c7FDksZiyeDtWhB54k5kT",
+			"width": 11,
+			"y": 45,
+			"scale": 1,
+			"normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/QWTr1fbO83xi7Umpg0ZoB9",
+			"offsetX": 0,
+			"properties": {},
+			"id": "c7FDksZiyeDtWhB54k5kT_4d6baef9-2a4b-45bd-bd77-74e00457e54b"
 		}
 	],
-	"mostRecentUpdateId": 6964049109287941,
-	"id": "ArtGallery",
-	"collisions": "AAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAABAQEBAQEBAQEBAQEBAQEBAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAAABAQEBAQAAAQEBAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-	"spawns": [
-		{
-			"y": 50,
-			"x": 14,
-			"spawnId": "ArtGallery"
-		},
-		{
-			"y": 50,
-			"spawnId": "ArtGallery",
-			"x": 22
-		},
-		{
-			"y": 50,
-			"spawnId": "ArtGallery",
-			"x": 33
-		},
-		{
-			"spawnId": "ArtGallery",
-			"x": 27,
-			"y": 50
-		},
-		{
-			"y": 52,
-			"x": 17
-		},
-		{
-			"y": 52,
-			"x": 30
-		},
-		{
-			"x": 19,
-			"spawnId": "VisAPDoor",
-			"y": 54
-		},
-		{
-			"y": 53,
-			"spawnId": "VisAPDoor",
-			"x": 24
-		},
-		{
-			"y": 54,
-			"x": 28,
-			"spawnId": "VisAPDoor"
-		}
-	],
-	"assets": [],
-	"dimensions": [
-		100,
-		100
-	],
-	"updatedAt": "2022-09-22T02:54:46.215Z",
 	"backgroundImagePath": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/VlPLLN1cfaRfu2Lv/hg5IslWFkrQNTKwBDOG3C1",
+	"id": "ArtGallery",
+	"updatedAt": "2022-09-22T02:54:46.215Z",
+	"assets": [],
 	"nooks": {
 		"1": {
 			"colored": false,
+			"name": "1",
 			"nookCoords": {
 				"coords": [
 					{
@@ -2862,32 +2848,32 @@
 						"y": 46
 					},
 					{
-						"y": 47,
-						"x": 45
+						"x": 45,
+						"y": 47
 					},
 					{
 						"y": 47,
 						"x": 44
 					},
 					{
-						"y": 47,
-						"x": 43
-					},
-					{
-						"y": 47,
-						"x": 42
-					},
-					{
-						"x": 41,
+						"x": 43,
 						"y": 47
+					},
+					{
+						"x": 42,
+						"y": 47
+					},
+					{
+						"y": 47,
+						"x": 41
 					},
 					{
 						"y": 46,
 						"x": 41
 					},
 					{
-						"y": 45,
-						"x": 41
+						"x": 41,
+						"y": 45
 					},
 					{
 						"x": 41,
@@ -2898,20 +2884,20 @@
 						"x": 42
 					},
 					{
-						"x": 43,
-						"y": 43
+						"y": 43,
+						"x": 43
 					},
 					{
-						"x": 44,
-						"y": 43
+						"y": 43,
+						"x": 44
 					},
 					{
 						"x": 45,
 						"y": 43
 					},
 					{
-						"y": 44,
-						"x": 45
+						"x": 45,
+						"y": 44
 					},
 					{
 						"x": 44,
@@ -2922,24 +2908,24 @@
 						"x": 44
 					},
 					{
-						"x": 44,
-						"y": 46
+						"y": 46,
+						"x": 44
 					},
 					{
-						"x": 43,
-						"y": 46
+						"y": 46,
+						"x": 43
 					},
 					{
-						"x": 42,
-						"y": 46
+						"y": 46,
+						"x": 42
 					},
 					{
 						"x": 42,
 						"y": 45
 					},
 					{
-						"x": 42,
-						"y": 44
+						"y": 44,
+						"x": 42
 					},
 					{
 						"x": 43,
@@ -2950,33 +2936,31 @@
 						"x": 43
 					}
 				]
-			},
-			"name": "1"
+			}
 		},
 		"2": {
-			"name": "2",
 			"colored": false,
 			"nookCoords": {
 				"coords": [
 					{
-						"x": 43,
+						"y": 49,
+						"x": 43
+					},
+					{
+						"x": 44,
 						"y": 49
 					},
 					{
-						"y": 49,
-						"x": 44
+						"x": 45,
+						"y": 49
 					},
 					{
-						"y": 49,
-						"x": 45
+						"x": 45,
+						"y": 50
 					},
 					{
-						"y": 50,
-						"x": 45
-					},
-					{
-						"y": 51,
-						"x": 45
+						"x": 45,
+						"y": 51
 					},
 					{
 						"y": 51,
@@ -2987,23 +2971,25 @@
 						"x": 43
 					},
 					{
-						"y": 50,
-						"x": 43
+						"x": 43,
+						"y": 50
 					},
 					{
 						"x": 44,
 						"y": 50
 					}
 				]
-			}
+			},
+			"name": "2"
 		},
 		"3": {
 			"colored": false,
+			"name": "3",
 			"nookCoords": {
 				"coords": [
 					{
-						"x": 39,
-						"y": 49
+						"y": 49,
+						"x": 39
 					},
 					{
 						"y": 49,
@@ -3012,51 +2998,49 @@
 					{
 						"y": 49,
 						"x": 41
-					},
-					{
-						"x": 41,
-						"y": 50
 					},
 					{
 						"y": 50,
-						"x": 40
+						"x": 41
+					},
+					{
+						"x": 40,
+						"y": 50
 					},
 					{
 						"x": 39,
 						"y": 50
 					},
 					{
-						"x": 39,
-						"y": 51
+						"y": 51,
+						"x": 39
 					},
 					{
-						"x": 40,
-						"y": 51
+						"y": 51,
+						"x": 40
 					},
 					{
 						"x": 41,
 						"y": 51
 					}
 				]
-			},
-			"name": "3"
+			}
 		},
 		"4": {
 			"colored": false,
-			"name": "4",
 			"nookCoords": {
 				"coords": [
 					{
-						"y": 33,
-						"x": 40
+						"x": 40,
+						"y": 33
 					},
 					{
 						"y": 33,
 						"x": 41
 					},
 					{
-						"y": 33,
-						"x": 42
+						"x": 42,
+						"y": 33
 					},
 					{
 						"y": 33,
@@ -3087,8 +3071,8 @@
 						"y": 37
 					},
 					{
-						"y": 37,
-						"x": 42
+						"x": 42,
+						"y": 37
 					},
 					{
 						"x": 41,
@@ -3103,36 +3087,36 @@
 						"x": 40
 					},
 					{
-						"y": 35,
-						"x": 40
+						"x": 40,
+						"y": 35
 					},
 					{
-						"y": 34,
-						"x": 40
+						"x": 40,
+						"y": 34
 					},
 					{
 						"x": 41,
 						"y": 34
 					},
 					{
+						"x": 42,
+						"y": 34
+					},
+					{
 						"y": 34,
-						"x": 42
+						"x": 43
 					},
 					{
 						"x": 43,
-						"y": 34
+						"y": 35
 					},
 					{
-						"y": 35,
-						"x": 43
+						"x": 43,
+						"y": 36
 					},
 					{
 						"y": 36,
-						"x": 43
-					},
-					{
-						"x": 42,
-						"y": 36
+						"x": 42
 					},
 					{
 						"x": 41,
@@ -3143,11 +3127,12 @@
 						"y": 35
 					},
 					{
-						"x": 42,
-						"y": 35
+						"y": 35,
+						"x": 42
 					}
 				]
-			}
+			},
+			"name": "4"
 		},
 		"5": {
 			"colored": false,
@@ -3155,20 +3140,20 @@
 			"nookCoords": {
 				"coords": [
 					{
-						"y": 34,
-						"x": 7
+						"x": 7,
+						"y": 34
 					},
 					{
-						"x": 7,
-						"y": 35
+						"y": 35,
+						"x": 7
 					},
 					{
 						"x": 7,
 						"y": 36
 					},
 					{
-						"x": 7,
-						"y": 37
+						"y": 37,
+						"x": 7
 					},
 					{
 						"x": 6,
@@ -3179,12 +3164,12 @@
 						"x": 5
 					},
 					{
-						"x": 4,
-						"y": 37
+						"y": 37,
+						"x": 4
 					},
 					{
-						"x": 3,
-						"y": 37
+						"y": 37,
+						"x": 3
 					},
 					{
 						"x": 3,
@@ -3195,28 +3180,28 @@
 						"x": 3
 					},
 					{
-						"x": 3,
+						"y": 34,
+						"x": 3
+					},
+					{
+						"y": 34,
+						"x": 4
+					},
+					{
+						"x": 5,
 						"y": 34
 					},
 					{
-						"y": 34,
-						"x": 4
-					},
-					{
-						"y": 34,
-						"x": 5
-					},
-					{
-						"y": 34,
-						"x": 6
+						"x": 6,
+						"y": 34
 					},
 					{
 						"y": 35,
 						"x": 6
 					},
 					{
-						"y": 36,
-						"x": 6
+						"x": 6,
+						"y": 36
 					},
 					{
 						"y": 36,
@@ -3227,8 +3212,8 @@
 						"y": 36
 					},
 					{
-						"y": 35,
-						"x": 4
+						"x": 4,
+						"y": 35
 					},
 					{
 						"y": 35,
@@ -3239,8 +3224,8 @@
 						"x": 3
 					},
 					{
-						"y": 38,
-						"x": 4
+						"x": 4,
+						"y": 38
 					},
 					{
 						"y": 38,
@@ -3258,12 +3243,13 @@
 			}
 		},
 		"6": {
+			"colored": false,
 			"name": "6",
 			"nookCoords": {
 				"coords": [
 					{
-						"y": 45,
-						"x": 3
+						"x": 3,
+						"y": 45
 					},
 					{
 						"y": 45,
@@ -3298,8 +3284,8 @@
 						"y": 49
 					},
 					{
-						"y": 49,
-						"x": 6
+						"x": 6,
+						"y": 49
 					},
 					{
 						"x": 5,
@@ -3310,8 +3296,8 @@
 						"y": 49
 					},
 					{
-						"y": 49,
-						"x": 3
+						"x": 3,
+						"y": 49
 					},
 					{
 						"y": 48,
@@ -3322,20 +3308,20 @@
 						"y": 47
 					},
 					{
-						"y": 46,
-						"x": 3
+						"x": 3,
+						"y": 46
 					},
 					{
 						"x": 4,
 						"y": 46
 					},
 					{
-						"x": 5,
-						"y": 46
+						"y": 46,
+						"x": 5
 					},
 					{
-						"y": 46,
-						"x": 6
+						"x": 6,
+						"y": 46
 					},
 					{
 						"y": 47,
@@ -3354,51 +3340,65 @@
 						"x": 4
 					},
 					{
-						"x": 4,
-						"y": 47
+						"y": 47,
+						"x": 4
 					},
 					{
 						"y": 47,
 						"x": 5
 					}
 				]
-			},
-			"colored": false
+			}
 		}
 	},
-	"name": "ArtGallery",
-	"portals": [
+	"useDrawnBG": false,
+	"spawns": [
 		{
-			"y": 56,
-			"x": 23,
-			"targetX": 15,
-			"targetMap": "NewOrleansTown",
-			"targetY": 51
+			"spawnId": "ArtGallery",
+			"y": 50,
+			"x": 14
 		},
 		{
-			"targetMap": "NewOrleansTown",
-			"y": 56,
+			"spawnId": "ArtGallery",
+			"x": 22,
+			"y": 50
+		},
+		{
+			"spawnId": "ArtGallery",
+			"y": 50,
+			"x": 33
+		},
+		{
+			"x": 27,
+			"y": 50,
+			"spawnId": "ArtGallery"
+		},
+		{
+			"y": 52,
+			"x": 17
+		},
+		{
+			"y": 52,
+			"x": 30
+		},
+		{
+			"y": 54,
+			"spawnId": "VisAPDoor",
+			"x": 19
+		},
+		{
+			"spawnId": "VisAPDoor",
 			"x": 24,
-			"targetY": 50,
-			"targetX": 17
+			"y": 53
 		},
 		{
-			"x": 16,
-			"targetY": 41,
-			"targetX": 89,
-			"y": 56,
-			"targetMap": "NewOrleansTown"
-		},
-		{
-			"y": 56,
-			"targetMap": "NewOrleansTown",
-			"targetX": 88,
-			"x": 17,
-			"targetY": 41
+			"x": 28,
+			"spawnId": "VisAPDoor",
+			"y": 54
 		}
 	],
-	"useDrawnBG": false,
-	"announcer": [],
+	"name": "ArtGallery",
+	"collisions": "AAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAABAQEBAQEBAQEBAQEBAQEBAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAAABAQEBAQAAAQEBAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
 	"spaces": [
 		{
 			"spaceId": "1",
