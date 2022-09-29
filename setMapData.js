@@ -104,6 +104,7 @@ for (var i in map_id_array) {
 
                     if (obj[k]._name == "sideview" || obj[k]._name == "not" || obj[k]._name == "face" || obj[k]._name == "untitled") {
                         obj[k].properties.url = csv_obj.PDF;
+                        obj[k].normal = csv_obj.Image;
                     }
 
 
@@ -115,6 +116,9 @@ for (var i in map_id_array) {
                     // highlighted = active image (what displays when a player is in interact range)
                     // properties.blurb = caption (only available for images)
                     // preview = idk
+
+
+                    // normal images are 4x3 (32px each block) (128px x 96px)
 
 
 

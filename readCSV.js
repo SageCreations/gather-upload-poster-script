@@ -20,3 +20,4 @@ fs.readFile(CSV_FILE, 'UTF-8', function (err, csv_file) {
         )
     });
 })
+
