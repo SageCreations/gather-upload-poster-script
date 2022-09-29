@@ -1,4 +1,5 @@
 const axios = require('axios');
+const { fips } = require('crypto');
 const fs = require('fs');
 const { SPACE_ID, API_KEY } = require("./config.js");
 
@@ -102,9 +103,20 @@ for (var i in map_id_array) {
                         obj[k].properties.video = csv_obj.Video;
                     }
 
-                    if (obj[k]._name == "sideview" || obj[k]._name == "not" || obj[k]._name == "face" || obj[k]._name == "untitled") {
-                        obj[k].properties.url = csv_obj.PDF;
-                        obj[k].normal = csv_obj.Image;
+                    if (typeof `./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json` != null) {
+                        var obj_coords = JSON.parse(fs.readFileSync(`./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json`));
+                        for (var l in obj_coords) {
+                            if ( obj[k].previewMessage == obj_coords[l] ) {
+                                if(csv_obj.PDF == '') {
+                                    obj[k].properties.url = ''
+                                }
+                                
+                                obj[k].properties.url = csv_obj.PDF;
+                                obj[k].normal = csv_obj.Image;
+                                //obj[k].highlighted = TODO: make a default image/video/pdf for all of these properties.
+                                break;
+                            }
+                        }
                     }
 
 
