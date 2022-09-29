@@ -74,7 +74,7 @@ for (var i in map_id_array) {
         )
     );
 
-    
+
     var obj = map_data.objects; // we are only wanting the objects of the room
 
     // loop through the objects of the csv json object
@@ -87,7 +87,6 @@ for (var i in map_id_array) {
 
             // then loop through the objects of the map-data object
             for (var k in obj) {
-
                 // TODO: subject to change, need to coordinate with art 
                 //       team on how to make objects for posters.
                 // Current way is by adding an id number to multiple 
@@ -96,25 +95,33 @@ for (var i in map_id_array) {
                 // since each poster will have multiple objects to interact with.
                 if (obj[k].previewMessage == csv_obj.ID) {
 
-                    //TODO: need to find a way to abstract this more (currently working)
-                    // checks to see what type of object it is and place 
-                    // the corresponding link it can use.
                     if (obj[k]._name == "Bulletin (Video)") {
-                        obj[k].properties.video = csv_obj.Video;
+                        if (csv_obj.Video != '') {
+                            obj[k].properties.video = csv_obj.Video;
+                        } else { obj[k].properties.video = 'https://www.youtube.com/watch?v=xm3YgoEiEDc&ab_channel=10Hours'; }
                     }
 
                     if (typeof `./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json` != null) {
-                        var obj_coords = JSON.parse(fs.readFileSync(`./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json`));
-                        for (var l in obj_coords) {
-                            if ( obj[k].previewMessage == obj_coords[l] ) {
-                                if(csv_obj.PDF == '') {
-                                    obj[k].properties.url = ''
+                        var obj_coords = JSON.parse(fs.readFileSync('./position_coordinates/ArtGallery-position.json'));
+                        // `./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json`
+                        // The position file isnt generated and manually made since we decided that we were gonna 
+                        //  reuse the same room just make multiple versions meaning the x,y coords will be the 
+                        //  same no matter the number of the mapid copy.
+                        // TODO: may come back later and make this file generate.
+                        for (var l in obj_coords.imagePos) {
+                            console.log(obj_coords.imagePos[l]);
+                            if (csv_obj.ID == obj_coords.imagePos[l].previewMessage) {
+                                if (obj_coords.imagePos[l].x == obj[k].x && obj_coords.imagePos[l].y == obj[k].y) {
+                                    if (csv_obj.PDF == '') {
+                                        obj[k].properties.url = 'https://www.dafk.net/what/';
+                                        obj[k].normal = csv_obj.Image
+                                    } else {
+                                        obj[k].properties.url = csv_obj.PDF;
+                                        obj[k].normal = csv_obj.Image;
+                                        //obj[k].highlighted = TODO: make a default image/video/pdf for all of these properties.
+                                        break;
+                                    }
                                 }
-                                
-                                obj[k].properties.url = csv_obj.PDF;
-                                obj[k].normal = csv_obj.Image;
-                                //obj[k].highlighted = TODO: make a default image/video/pdf for all of these properties.
-                                break;
                             }
                         }
                     }
@@ -130,7 +137,7 @@ for (var i in map_id_array) {
                     // preview = idk
 
 
-                    // normal images are 4x3 (32px each block) (128px x 96px)
+                    // normal images are 4x3 (32px each block) (128px x 96px) (MAYBE: 120x72 for shadow effect)
 
 
 

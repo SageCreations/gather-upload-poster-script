@@ -40,14 +40,14 @@ var csv_json_object = JSON.parse(fs.readFileSync('./csv-data.json'));
 
 
 let imgUploadTest = async () => {
+    var default_url = await uploadImage("./images/defaultImage.png");
     for (var i in csv_json_object) {
         if (csv_json_object[i].Image != '') {
-
             var url = await uploadImage("./images/" + csv_json_object[i].Image);
-            
             csv_json_object[i].Image = url;
             //console.log(csv_json_object[i]);
-
+        } else {
+            csv_json_object[i].Image = default_url;
         }
     }
 
