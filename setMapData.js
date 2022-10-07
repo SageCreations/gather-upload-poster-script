@@ -1,18 +1,36 @@
 const axios = require('axios');
 const { fips } = require('crypto');
 const fs = require('fs');
-const { SPACE_ID, API_KEY } = require("./config.js");
+const { SPACE_ID, API_KEY, BG_IMAGE } = require("./config.js");
 
 
 
-function setMapData(map_id, changedObjects) { //changedObjects
-    axios
-        .post(
+function setMapData(map_id, changedObjects, BG_URL) { //changedObjects
+    if (BG_IMAGE != "") {
+        axios.post(
             `https://api.gather.town/api/v2/spaces/${encodeURIComponent(
                 SPACE_ID
             )}/maps/${encodeURIComponent(map_id)}`,
             {
-
+                content: {
+                    backgroundImagePath: BG_URL,
+                    objects: changedObjects
+                },
+            },
+            {
+                headers: {
+                    apiKey: API_KEY,
+                },
+            }
+        )
+        .then((response) => console.log("Success: " + response.status))
+        .catch(console.error);
+    } else {
+        axios.post(
+            `https://api.gather.town/api/v2/spaces/${encodeURIComponent(
+                SPACE_ID
+            )}/maps/${encodeURIComponent(map_id)}`,
+            {
                 content: {
                     objects: changedObjects
                 },
@@ -25,6 +43,7 @@ function setMapData(map_id, changedObjects) { //changedObjects
         )
         .then((response) => console.log("Success: " + response.status))
         .catch(console.error);
+    }
 
 }
 
@@ -64,6 +83,8 @@ for (var i = 0; i < csv_json_object.length; i++) {
 
 // STEP # 4
 
+var BG_URL = "";
+
 // loop through map_id_array
 for (var i in map_id_array) {
 
@@ -95,12 +116,13 @@ for (var i in map_id_array) {
                 // since each poster will have multiple objects to interact with.
                 if (obj[k].previewMessage == csv_obj.ID) {
 
+                    /*
                     if (obj[k]._name == "Bulletin (Video)") {
                         if (csv_obj.Video != '') {
                             obj[k].properties.video = csv_obj.Video;
                         } else { obj[k].properties.video = 'https://www.youtube.com/watch?v=xm3YgoEiEDc&ab_channel=10Hours'; }
                     }
-
+                    
                     if (typeof `./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json` != null) {
                         var obj_coords = JSON.parse(fs.readFileSync('./position_coordinates/ArtGallery-position.json'));
                         // `./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json`
@@ -124,6 +146,19 @@ for (var i in map_id_array) {
                                 }
                             }
                         }
+
+                    //TODO: need to find a way to abstract this more (currently working)
+                    // checks to see what type of object it is and place 
+                    // the corresponding link it can use.
+                    if (obj[k]._name == "Bulletin (Video)") {
+                        obj[k].properties.video = csv_obj.Video;
+                    }
+                */
+                    if (obj[k]._name == "sideview" || obj[k]._name == "not" || obj[k]._name == "face" || obj[k]._name == "untitled") {
+                        obj[k].properties.url = csv_obj.PDF;
+                        obj[k].normal = csv_obj.NORMAL;
+                        obj[k].highlighted = csv_obj.HIGHLIGHTED;
+
                     }
 
 
@@ -143,10 +178,14 @@ for (var i in map_id_array) {
 
                 }
             }
+        } 
+
+        if (csv_obj.BG_IMAGE != '') {
+            BG_URL = csv_obj.BG_IMAGE;
         }
 
     }
 
     // calls the set map data function per iteration of the map_id_array
-    setMapData(map_id_array[i], obj); // passes in the obj of the map_data json with edits if any were made
+    setMapData(map_id_array[i], obj, BG_URL); // passes in the obj of the map_data json with edits if any were made
 }
