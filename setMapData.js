@@ -64,7 +64,7 @@ for (var i = 0; i < csv_json_object.length; i++) {
     var check = false; //used for checking map_id repeats
 
     // checks to see if there even is map_id listed
-    if (obj.MAP_ID !== null) {
+    if (obj.MAP_ID != null) {
         // loops through the map_id_array
         for (var j in map_id_array) {
             // check to see if the current obj.map_id is already in it.
