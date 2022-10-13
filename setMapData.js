@@ -1,5 +1,4 @@
 const axios = require('axios');
-const { fips } = require('crypto');
 const fs = require('fs');
 const { SPACE_ID, API_KEY, BG_IMAGE } = require("./config.js");
 
@@ -116,13 +115,13 @@ for (var i in map_id_array) {
                 // since each poster will have multiple objects to interact with.
                 if (obj[k].previewMessage == csv_obj.ID) {
 
-                    /*
+                    
                     if (obj[k]._name == "Bulletin (Video)") {
                         if (csv_obj.Video != '') {
                             obj[k].properties.video = csv_obj.Video;
                         } else { obj[k].properties.video = 'https://www.youtube.com/watch?v=xm3YgoEiEDc&ab_channel=10Hours'; }
                     }
-                    
+                    /* // This was an alternate test method, might do something in the future with it, feel free to delete on your end.
                     if (typeof `./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json` != null) {
                         var obj_coords = JSON.parse(fs.readFileSync('./position_coordinates/ArtGallery-position.json'));
                         // `./position_coordinates/${encodeURIComponent(map_id_array[i])}-position.json`
@@ -154,11 +153,10 @@ for (var i in map_id_array) {
                         obj[k].properties.video = csv_obj.Video;
                     }
                 */
-                    if (obj[k]._name == "sideview" || obj[k]._name == "not" || obj[k]._name == "face" || obj[k]._name == "untitled") {
+                    if (obj[k]._name == "sideview") {
                         obj[k].properties.url = csv_obj.PDF;
                         obj[k].normal = csv_obj.NORMAL;
                         obj[k].highlighted = csv_obj.HIGHLIGHTED;
-
                     }
 
 
