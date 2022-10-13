@@ -1,4 +1,4 @@
-# STATUS OF PROJECT: Script is still not done
+# STATUS OF PROJECT: Step 6 of the script doesnt exist yet but main functionality is done.
 # Gathertown link-data uploader
 
 
